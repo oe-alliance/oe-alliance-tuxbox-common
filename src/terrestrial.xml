@@ -375,13 +375,55 @@
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
 	<terrestrial name="France TNT(fr)" flags="5"> 
-		<transponder centre_frequency="546166000" bandwidth="0" constellation="3" /> 
-		<transponder centre_frequency="586166000" bandwidth="0" constellation="3" /> 
-		<transponder centre_frequency="602166000" bandwidth="0" constellation="3" /> 
-		<transponder centre_frequency="618166000" bandwidth="0" constellation="3" /> 
-		<transponder centre_frequency="650166000" bandwidth="0" constellation="3" /> 
-		<transponder centre_frequency="674166000" bandwidth="0" constellation="3" /> 
-		<transponder centre_frequency="770166000" bandwidth="0" constellation="3" /> 
+		<transponder centre_frequency="474166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="482166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="490166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="498166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="506166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="514166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="522166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="530166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="538166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="546166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="554166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="562166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="570166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="578166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="586166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="594166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="602166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="610166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="618166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="626166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="634166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="642166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="650166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="658166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="666166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="674166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="682166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="690166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="698166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="706166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="714166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="722166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="730166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="738166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="746166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="754166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="762166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="770166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="778166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="786166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="794166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="802166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="810166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="818166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="826166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="834166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="842166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="850166000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="858166000" bandwidth="0" constellation="3" />
 	</terrestrial>
 	<terrestrial name="Italia(it)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
