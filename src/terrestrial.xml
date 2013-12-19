@@ -20,7 +20,7 @@
 	standards to http://www.dream-multimedia-tv.de/board/
 -->
 <locations>
-	<terrestrial name="Scandinavia DVB-T/T2" flags="5">
+	<terrestrial name="Scandinavia (Europe DVB-T/T2)" flags="5">
 		  <transponder centre_frequency="185000000" bandwidth="0" constellation="3"/>
 		  <transponder centre_frequency="192000000" bandwidth="0" constellation="3"/>
 		  <transponder centre_frequency="199000000" bandwidth="0" constellation="3"/>
@@ -54,7 +54,8 @@
 		  <transponder centre_frequency="754000000" bandwidth="0" constellation="3"/>
 		  <transponder centre_frequency="778000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="Russia: DVB-T/T2" flags="5">
+	<terrestrial name="Russia (Europe DVB-T/T2)" flags="5">
+		  <transponder centre_frequency="498000000" bandwidth="0" constellation="3"/>  
 		  <transponder centre_frequency="546000000" bandwidth="0" constellation="3"/>
 		  <transponder centre_frequency="562000000" bandwidth="0" constellation="3"/>
 		  <transponder centre_frequency="578000000" bandwidth="0" constellation="3"/>
@@ -69,7 +70,7 @@
 		  <transponder centre_frequency="730000000" bandwidth="0" constellation="3"/>
 		  <transponder centre_frequency="514000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="Australia: DVB-T Frequencies" flags="5">
+	<terrestrial name="Australia (DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/>
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="3"/>
 		<transponder centre_frequency="191500000" bandwidth="1" constellation="3"/>
@@ -285,7 +286,7 @@
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="Iceland: DVB-T Frequencies" flags="5">
+	<terrestrial name="Iceland (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/>
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="3"/>
 		<transponder centre_frequency="191500000" bandwidth="1" constellation="3"/>
@@ -374,7 +375,7 @@
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="France TNT(fr)" flags="5"> 
+	<terrestrial name="France TNT(fr) (Europe DVB-T/T2)" flags="5"> 
 		<transponder centre_frequency="474166000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="482166000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="490166000" bandwidth="0" constellation="3" />
@@ -425,13 +426,13 @@
 		<transponder centre_frequency="850166000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="858166000" bandwidth="0" constellation="3" />
 	</terrestrial>
-	<terrestrial name="Italia(it)" flags="5">
+	<terrestrial name="Italia(it) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="186000000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="194500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="198500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="203500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
-	<transponder centre_frequency="205500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="212500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -449,7 +450,7 @@
 		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
-	<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -485,92 +486,92 @@
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Polska(pl)" flags="5">
-	<transponder centre_frequency="470000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" /> 
-	<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" /> 
-	<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="626000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="666000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="730000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" /> 
-	<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="794000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="802000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
-	<transponder centre_frequency="818000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />   
+	<terrestrial name="Polska(pl) (Europe DVB-T/T2)" flags="5">
+		<transponder centre_frequency="470000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" /> 
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" /> 
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" /> 
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />   
 	</terrestrial>
-	<terrestrial name="Adelaide(au)" flags="5">
+	<terrestrial name="Adelaide(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="564500000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Brisbane(au)" flags="5">
+	<terrestrial name="Brisbane(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="585625000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Canberra(au)" flags="5">
+	<terrestrial name="Canberra(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="205625000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="2" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="0" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="543500000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Darwin(au)" flags="5">
+	<terrestrial name="Darwin(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="543625000" bandwidth="0" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="550500000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="536625000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="557625000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Melbourne(au)" flags="5">
+	<terrestrial name="Melbourne(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="536625000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Sydney_north_shore(au)" flags="5">
+	<terrestrial name="Sydney_north_shore(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" code_rate_hp="2" code_rate_lp="6" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="571500000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Unknown(au)" flags="5">
+	<terrestrial name="Unknown(au) (Australia DVB-T/T2)" flags="5">
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Praha(cz)" flags="5">
+	<terrestrial name="Praha(cz) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Berlin/Brandenburg(de)" flags="5"> 
-	  <ts centre_frequency="506000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:04"/>
-	  <ts centre_frequency="522000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:10"/>
-	  <ts centre_frequency="570000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="3" transmission_mode="1" other_frequency_flag="1" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:15"/>
-	  <ts centre_frequency="618000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="2" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:24"/>
-	  <ts centre_frequency="658000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:32"/>
-	  <ts centre_frequency="682000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:44"/>
-	  <ts centre_frequency="706000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:49"/>
-	  <ts centre_frequency="754000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:18:01"/>
-	  <ts centre_frequency="778000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:18:10"/>
+	<terrestrial name="Berlin/Brandenburg(de) (Europe DVB-T/T2)" flags="5"> 
+		<ts centre_frequency="506000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:04"/>
+		<ts centre_frequency="522000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:10"/>
+		<ts centre_frequency="570000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="3" transmission_mode="1" other_frequency_flag="1" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:15"/>
+		<ts centre_frequency="618000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="2" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:24"/>
+		<ts centre_frequency="658000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:32"/>
+		<ts centre_frequency="682000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:44"/>
+		<ts centre_frequency="706000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:17:49"/>
+		<ts centre_frequency="754000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:18:01"/>
+		<ts centre_frequency="778000000" bandwidth="0" priority="1" Time_Slicing_indicator="1" MPE_FEC_indicator="1" constellation="1" hierachy_information="0" code_rate_HP_stream="1" code_rate_LP_stream="0" guard_interval="2" transmission_mode="1" other_frequency_flag="0" networktype="2" satellite="DVB-T" scantime="21/8/2012 14:18:10"/>
 	</terrestrial>
-	<terrestrial name="Bremen/Bremerhaven(de)" flags="5">
+	<terrestrial name="Bremen/Bremerhaven(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -579,7 +580,7 @@
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Duesseldorf/Ruhrgebiet(de)" flags="5">
+	<terrestrial name="Duesseldorf/Ruhrgebiet(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -590,7 +591,7 @@
 		<transponder centre_frequency="826000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Hamburg/Luebeck(de)" flags="5">
+	<terrestrial name="Hamburg/Luebeck(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="205500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -605,7 +606,7 @@
 		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Hannover/Braunschweig(de)" flags="5">
+	<terrestrial name="Hannover/Braunschweig(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="198500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -615,7 +616,7 @@
 		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Kiel(de)" flags="5">
+	<terrestrial name="Kiel(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177750000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -626,7 +627,7 @@
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Koeln/Bonn(de)" flags="5">
+	<terrestrial name="Koeln/Bonn(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -634,7 +635,7 @@
 		<transponder centre_frequency="826000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Muenchen/Suedbayern(de)" flags="5">
+	<terrestrial name="Muenchen/Suedbayern(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="212500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -642,7 +643,7 @@
 		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Nuernberg(de)" flags="5">
+	<terrestrial name="Nuernberg(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -650,7 +651,7 @@
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Rhein-Main(de)" flags="5">
+	<terrestrial name="Rhein-Main(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="198500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -659,12 +660,12 @@
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Heidelberg/BadenBaden/Donnersberg/Pforzheim(de)" flags="5">
+	<terrestrial name="Heidelberg/BadenBaden/Donnersberg/Pforzheim(de) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="1"/>
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="Copenhagen(dk)" flags="5">
+	<terrestrial name="Copenhagen(dk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="213000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" /> 
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" /> 
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" /> 
@@ -686,12 +687,12 @@
 		<transponder centre_frequency="794000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" /> 
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" /> 
 	</terrestrial>
-	<terrestrial name="Collserola(es)" flags="5">
+	<terrestrial name="Collserola(es) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="794000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="834000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Barcelona(es)" flags="5">
+	<terrestrial name="Barcelona(es) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" />
@@ -706,86 +707,86 @@
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3" />
 	</terrestrial>
-	<terrestrial name="Espoo(fi)" flags="5">
+	<terrestrial name="Espoo(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Jyvaskyla(fi)" flags="5">
+	<terrestrial name="Jyvaskyla(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Kuopio(fi)" flags="5">
+	<terrestrial name="Kuopio(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Tampere(fi)" flags="5">
+	<terrestrial name="Tampere(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Turko(fi)" flags="5">
+	<terrestrial name="Turko(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="714000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="AlphenaandenRijn(nl)" flags="5">
+	<terrestrial name="AlphenaandenRijn(nl) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="818000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Randstad(nl)" flags="5">
+	<terrestrial name="Randstad(nl) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="818000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Gavle(se)" flags="5">
+	<terrestrial name="Gavle(se) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Black Hill(uk)" flags="5">
+	<terrestrial name="Black Hill(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="634167000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Crystal Palace(uk)" flags="5">
+	<terrestrial name="Crystal Palace(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="505833333" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Emley Moor(uk)" flags="5">
+	<terrestrial name="Emley Moor(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="673833330" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="2" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Hannington(uk)" flags="5">
+	<terrestrial name="Hannington(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="706000000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Mendip(uk)" flags="5">
+	<terrestrial name="Mendip(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="754167000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Oxford(uk)" flags="5">
+	<terrestrial name="Oxford(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Pontop Pike(uk)" flags="5">
+	<terrestrial name="Pontop Pike(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="0" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Redruth(uk)" flags="5">
+	<terrestrial name="Redruth(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Reigate(uk)" flags="5">
+	<terrestrial name="Reigate(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Rowridge(uk)" flags="5">
+	<terrestrial name="Rowridge(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="489833333" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Sandy Heath(uk)" flags="5">
+	<terrestrial name="Sandy Heath(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="641833334" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Storeton(uk)" flags="5">
+	<terrestrial name="Storeton(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="546167000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Winter Hill(uk)" flags="5">
+	<terrestrial name="Winter Hill(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="754166670" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
 </locations>
