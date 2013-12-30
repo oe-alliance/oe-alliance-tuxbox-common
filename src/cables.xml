@@ -4489,9 +4489,6 @@
 		<transponder frequency="834000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="842000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
     </cable>
-	<cable name="Virgin Media IE" flags="7">
-		<transponder frequency="291000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-	</cable>
 	<cable name="Virgin Media Ireland Bruteforce" satfeed="true" flags="0">
 		<transponder frequency="107000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
 		<transponder frequency="115000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
@@ -4588,39 +4585,7 @@
 		<transponder frequency="843000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
 		<transponder frequency="851000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
 	</cable>
-	<cable name="Virgin Media MMDS" flags="7">
-		<transponder frequency="250000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="258000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-	</cable>
-	<cable name="Virgin Media MMDS Bruteforce" satfeed="true" flags="0">
-		<transponder frequency="202000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="210000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="218000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="226000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="234000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="242000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="250000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="258000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="266000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="274000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="282000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="290000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="298000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="306000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="314000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="322000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="330000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="338000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="346000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="354000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="362000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="370000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="378000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="386000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="394000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-		<transponder frequency="402000000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
-	</cable>
-	<cable name="Virgin Media UK" satfeed="true" flags="9">
+	<cable name="Virgin Media UK (6952)" satfeed="true" flags="9">
 		<transponder frequency="506750000" symbol_rate="6952000" fec_inner="3" modulation="3"/>
 		<transponder frequency="507000000" symbol_rate="6952000" fec_inner="3" modulation="3"/>
 		<transponder frequency="514750000" symbol_rate="6952000" fec_inner="3" modulation="3"/>
