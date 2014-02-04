@@ -783,6 +783,8 @@
 		<transponder centre_frequency="706000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="738000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="746000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="754000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="770000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="778000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 	</terrestrial>
 	<terrestrial name="Redruth(uk) (Europe DVB-T/T2)" flags="5">
