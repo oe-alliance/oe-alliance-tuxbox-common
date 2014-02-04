@@ -777,7 +777,13 @@
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
 	<terrestrial name="Pontop Pike(uk) (Europe DVB-T/T2)" flags="5">
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="0" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
+		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="578000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="698000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="706000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="738000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="746000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="778000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 	</terrestrial>
 	<terrestrial name="Redruth(uk) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
