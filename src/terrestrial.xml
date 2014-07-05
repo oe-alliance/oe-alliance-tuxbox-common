@@ -1134,7 +1134,7 @@
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 	</terrestrial>
-		<terrestrial name="Sutton Coldfield (Birmingham, England)" flags="5">	
+	<terrestrial name="Sutton Coldfield (Birmingham, England)" flags="5">	
 		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="618200000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="626200000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
