@@ -806,7 +806,6 @@
         <transponder centre_frequency="690500000" bandwidth="1"/>
         <transponder centre_frequency="711625000" bandwidth="1"/>
     </terrestrial>
-	
     <terrestrial name="Perth(au) (Australia DVB-T/T2)" flags="5">
         <transponder centre_frequency="177500000" bandwidth="1"/>
         <transponder centre_frequency="184500000" bandwidth="1"/>
@@ -819,8 +818,7 @@
         <transponder centre_frequency="627500000" bandwidth="1"/>
         <transponder centre_frequency="634500000" bandwidth="1"/>
         <transponder centre_frequency="641500000" bandwidth="1"/>
-    </terrestrial>	
-
+    </terrestrial>
 	<terrestrial name="Praha(cz) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -1135,5 +1133,15 @@
 	<terrestrial name="Maghera (Ireland) (Europe DVB-T)" flags="5">
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+	</terrestrial>
+	<terrestrial name="Sutton Coldfield (Birmingham, England)" flags="5">	
+		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="618200000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="626200000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="642000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="650000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="666000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="674000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+		<transponder centre_frequency="714000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 	</terrestrial>
 </locations>
