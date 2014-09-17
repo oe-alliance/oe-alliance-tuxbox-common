@@ -1023,18 +1023,19 @@
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3" />
 	</terrestrial>
 	<terrestrial name="Suomi(fi) (Europe DVB-T/T2)" flags="5">
-		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="184500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="191500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="198500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="205500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="212500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="219500000" bandwidth="1" constellation="2" />
-		<transponder centre_frequency="226500000" bandwidth="1" constellation="2" />
+		<transponder centre_frequency="177500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="184500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="191500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="198500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="205500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="212500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="219500000" bandwidth="1" system="1" constellation="3" />
+		<transponder centre_frequency="226500000" bandwidth="1" system="1" constellation="3" />
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" />
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" />
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" />
 		<transponder centre_frequency="492000000" bandwidth="0" constellation="2" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" />		
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" />
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" />
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" />
