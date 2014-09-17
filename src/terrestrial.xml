@@ -581,283 +581,283 @@
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
 	</terrestrial>
 	<terrestrial name="Adelaide(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="191500000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="564500000" bandwidth="1"/>
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="571625000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="578625000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="585625000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="592625000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
+        	<transponder centre_frequency="177500000" bandwidth="1"/>
+        	<transponder centre_frequency="184500000" bandwidth="1"/>
+        	<transponder centre_frequency="191500000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="564500000" bandwidth="1"/>
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="571625000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="578625000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="585625000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="592625000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
 	</terrestrial>
 	<terrestrial name="Brisbane(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="191625000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="529500000" bandwidth="1"/>
+	        <transponder centre_frequency="177500000" bandwidth="1"/>
+	        <transponder centre_frequency="184500000" bandwidth="1"/>
+	        <transponder centre_frequency="191625000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="529500000" bandwidth="1"/>
 	</terrestrial>
-    <terrestrial name="Cairns(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-        <transponder centre_frequency="648500000" bandwidth="1"/>
-        <transponder centre_frequency="662500000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
-        <transponder centre_frequency="683500000" bandwidth="1"/>
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="191500000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="536500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="655500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="697625000" bandwidth="1"/>
-    </terrestrial>
+    	<terrestrial name="Cairns(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="184500000" bandwidth="1"/>
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	        <transponder centre_frequency="648500000" bandwidth="1"/>
+	        <transponder centre_frequency="662500000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="683500000" bandwidth="1"/>
+	        <transponder centre_frequency="177500000" bandwidth="1"/>
+	        <transponder centre_frequency="191500000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="536500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="655500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="697625000" bandwidth="1"/>
+    	</terrestrial>
 	<terrestrial name="Canberra(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="191500000" bandwidth="1"/>
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="205625000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="543500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-        <transponder centre_frequency="648500000" bandwidth="1"/>
-        <transponder centre_frequency="732500000" bandwidth="1"/>
-        <transponder centre_frequency="746500000" bandwidth="1"/>
-        <transponder centre_frequency="767500000" bandwidth="1"/>
-        <transponder centre_frequency="788500000" bandwidth="1"/>
-        <transponder centre_frequency="809500000" bandwidth="1"/>
+	        <transponder centre_frequency="184500000" bandwidth="1"/>
+	        <transponder centre_frequency="191500000" bandwidth="1"/>
+	        <transponder centre_frequency="177500000" bandwidth="1"/>
+	        <transponder centre_frequency="205625000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="543500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	        <transponder centre_frequency="648500000" bandwidth="1"/>
+	        <transponder centre_frequency="732500000" bandwidth="1"/>
+	        <transponder centre_frequency="746500000" bandwidth="1"/>
+	        <transponder centre_frequency="767500000" bandwidth="1"/>
+	        <transponder centre_frequency="788500000" bandwidth="1"/>
+	        <transponder centre_frequency="809500000" bandwidth="1"/>
 	</terrestrial>
 	<terrestrial name="Darwin(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="536625000" bandwidth="1"/>
-        <transponder centre_frequency="543625000" bandwidth="1"/>
-        <transponder centre_frequency="550500000" bandwidth="1"/>
-        <transponder centre_frequency="557500000" bandwidth="1"/>
-        <transponder centre_frequency="564625000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="536625000" bandwidth="1"/>
+	        <transponder centre_frequency="543625000" bandwidth="1"/>
+	        <transponder centre_frequency="550500000" bandwidth="1"/>
+	        <transponder centre_frequency="557500000" bandwidth="1"/>
+	        <transponder centre_frequency="564625000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
 	</terrestrial>
-    <terrestrial name="Geelong(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="655500000" bandwidth="1"/>
-        <transponder centre_frequency="662500000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="683500000" bandwidth="1"/>
-        <transponder centre_frequency="704500000" bandwidth="1"/>
-        <transponder centre_frequency="781500000" bandwidth="1"/>
-        <transponder centre_frequency="795500000" bandwidth="1"/>
-        <transponder centre_frequency="802500000" bandwidth="1"/>
-        <transponder centre_frequency="816500000" bandwidth="1"/>
-    </terrestrial>	
-    <terrestrial name="Gold Coast(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
-        <transponder centre_frequency="613500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-        <transponder centre_frequency="648500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="683500000" bandwidth="1"/>
-        <transponder centre_frequency="585625000" bandwidth="1"/>
-        <transponder centre_frequency="634625000" bandwidth="1"/>
-        <transponder centre_frequency="704625000" bandwidth="1"/>
-        <transponder centre_frequency="725625000" bandwidth="1"/>
-        <transponder centre_frequency="746625000" bandwidth="1"/>
-        <transponder centre_frequency="767625000" bandwidth="1"/>
-        <transponder centre_frequency="788625000" bandwidth="1"/>
-        <transponder centre_frequency="809625000" bandwidth="1"/>
-    </terrestrial>
-    <terrestrial name="Hobart(au) (Australia DVB-T/T2)" flags="5">
+    	<terrestrial name="Geelong(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="655500000" bandwidth="1"/>
+	        <transponder centre_frequency="662500000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="683500000" bandwidth="1"/>
+	        <transponder centre_frequency="704500000" bandwidth="1"/>
+	        <transponder centre_frequency="781500000" bandwidth="1"/>
+	        <transponder centre_frequency="795500000" bandwidth="1"/>
+	        <transponder centre_frequency="802500000" bandwidth="1"/>
+	        <transponder centre_frequency="816500000" bandwidth="1"/>
+    	</terrestrial>	
+    	<terrestrial name="Gold Coast(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
+	        <transponder centre_frequency="613500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	        <transponder centre_frequency="648500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="683500000" bandwidth="1"/>
+	        <transponder centre_frequency="585625000" bandwidth="1"/>
+	        <transponder centre_frequency="634625000" bandwidth="1"/>
+	        <transponder centre_frequency="704625000" bandwidth="1"/>
+	        <transponder centre_frequency="725625000" bandwidth="1"/>
+	        <transponder centre_frequency="746625000" bandwidth="1"/>
+	        <transponder centre_frequency="767625000" bandwidth="1"/>
+	        <transponder centre_frequency="788625000" bandwidth="1"/>
+	        <transponder centre_frequency="809625000" bandwidth="1"/>
+	</terrestrial>
+    	<terrestrial name="Hobart(au) (Australia DVB-T/T2)" flags="5">
         <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="613500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="655500000" bandwidth="1"/>
-        <transponder centre_frequency="662500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="184625000" bandwidth="1"/>
-        <transponder centre_frequency="191500000" bandwidth="1"/>
-        <transponder centre_frequency="205500000" bandwidth="1"/>
-        <transponder centre_frequency="212500000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="627625000" bandwidth="1"/>
-        <transponder centre_frequency="648625000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
-        <transponder centre_frequency="690500000" bandwidth="1"/>
-        <transponder centre_frequency="725375000" bandwidth="1"/>
-        <transponder centre_frequency="767500000" bandwidth="1"/>
-        <transponder centre_frequency="781625000" bandwidth="1"/>
-        <transponder centre_frequency="788500000" bandwidth="1"/>
-        <transponder centre_frequency="795500000" bandwidth="1"/>
-    </terrestrial>
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="613500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="655500000" bandwidth="1"/>
+	        <transponder centre_frequency="662500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="184625000" bandwidth="1"/>
+	        <transponder centre_frequency="191500000" bandwidth="1"/>
+	        <transponder centre_frequency="205500000" bandwidth="1"/>
+	        <transponder centre_frequency="212500000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="627625000" bandwidth="1"/>
+	        <transponder centre_frequency="648625000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="690500000" bandwidth="1"/>
+	        <transponder centre_frequency="725375000" bandwidth="1"/>
+	        <transponder centre_frequency="767500000" bandwidth="1"/>
+	        <transponder centre_frequency="781625000" bandwidth="1"/>
+	        <transponder centre_frequency="788500000" bandwidth="1"/>
+	        <transponder centre_frequency="795500000" bandwidth="1"/>
+    	</terrestrial>
 	<terrestrial name="Melbourne(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="613500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="648500000" bandwidth="1"/>
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="191625000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="557625000" bandwidth="1"/>
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-        <transponder centre_frequency="662500000" bandwidth="1"/>
-        <transponder centre_frequency="683500000" bandwidth="1"/>
-        <transponder centre_frequency="690500000" bandwidth="1"/>
-        <transponder centre_frequency="711500000" bandwidth="1"/>
-        <transponder centre_frequency="732500000" bandwidth="1"/>
-        <transponder centre_frequency="753500000" bandwidth="1"/>
-        <transponder centre_frequency="774500000" bandwidth="1"/>
-        <transponder centre_frequency="795500000" bandwidth="1"/>
+	        <transponder centre_frequency="613500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="648500000" bandwidth="1"/>
+	        <transponder centre_frequency="177500000" bandwidth="1"/>
+	        <transponder centre_frequency="184500000" bandwidth="1"/>
+	        <transponder centre_frequency="191625000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="557625000" bandwidth="1"/>
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	        <transponder centre_frequency="662500000" bandwidth="1"/>
+	        <transponder centre_frequency="683500000" bandwidth="1"/>
+	        <transponder centre_frequency="690500000" bandwidth="1"/>
+	        <transponder centre_frequency="711500000" bandwidth="1"/>
+	        <transponder centre_frequency="732500000" bandwidth="1"/>
+	        <transponder centre_frequency="753500000" bandwidth="1"/>
+	        <transponder centre_frequency="774500000" bandwidth="1"/>
+	        <transponder centre_frequency="795500000" bandwidth="1"/>
 	</terrestrial>
-    <terrestrial name="Newcastle(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="690500000" bandwidth="1"/>
-        <transponder centre_frequency="704500000" bandwidth="1"/>
-    </terrestrial>
-    <terrestrial name="Sunshine Coast(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="613500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-        <transponder centre_frequency="655500000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="683500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="585625000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
-        <transponder centre_frequency="662625000" bandwidth="1"/>
-        <transponder centre_frequency="704625000" bandwidth="1"/>
-        <transponder centre_frequency="725500000" bandwidth="1"/>
-        <transponder centre_frequency="746500000" bandwidth="1"/>
-        <transponder centre_frequency="767625000" bandwidth="1"/>
-        <transponder centre_frequency="788625000" bandwidth="1"/>
-        <transponder centre_frequency="809500000" bandwidth="1"/>
-    </terrestrial>	
+    	<terrestrial name="Newcastle(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="690500000" bandwidth="1"/>
+	        <transponder centre_frequency="704500000" bandwidth="1"/>
+	</terrestrial>
+    	<terrestrial name="Sunshine Coast(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="613500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	        <transponder centre_frequency="655500000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="683500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="585625000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
+	        <transponder centre_frequency="662625000" bandwidth="1"/>
+	        <transponder centre_frequency="704625000" bandwidth="1"/>
+	        <transponder centre_frequency="725500000" bandwidth="1"/>
+	        <transponder centre_frequency="746500000" bandwidth="1"/>
+	        <transponder centre_frequency="767625000" bandwidth="1"/>
+	        <transponder centre_frequency="788625000" bandwidth="1"/>
+	        <transponder centre_frequency="809500000" bandwidth="1"/>
+    	</terrestrial>	
 	<terrestrial name="Sydney(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="191625000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="529500000" bandwidth="1"/>
-        <transponder centre_frequency="536625000" bandwidth="1"/>
-        <transponder centre_frequency="543625000" bandwidth="1"/>
-        <transponder centre_frequency="550500000" bandwidth="1"/>
-        <transponder centre_frequency="557500000" bandwidth="1"/>
-        <transponder centre_frequency="564500000" bandwidth="1"/>
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="648500000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="177500000" bandwidth="1"/>
+	        <transponder centre_frequency="184500000" bandwidth="1"/>
+	        <transponder centre_frequency="191625000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="529500000" bandwidth="1"/>
+	        <transponder centre_frequency="536625000" bandwidth="1"/>
+	        <transponder centre_frequency="543625000" bandwidth="1"/>
+	        <transponder centre_frequency="550500000" bandwidth="1"/>
+	        <transponder centre_frequency="557500000" bandwidth="1"/>
+	        <transponder centre_frequency="564500000" bandwidth="1"/>
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="648500000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
 	</terrestrial>
-    <terrestrial name="Toowoomba(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="655500000" bandwidth="1"/>
-        <transponder centre_frequency="662500000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="683500000" bandwidth="1"/>
-        <transponder centre_frequency="718500000" bandwidth="1"/>
-        <transponder centre_frequency="739500000" bandwidth="1"/>
-        <transponder centre_frequency="760500000" bandwidth="1"/>
-        <transponder centre_frequency="781500000" bandwidth="1"/>
-        <transponder centre_frequency="802500000" bandwidth="1"/>
-    </terrestrial>	
-    <terrestrial name="Townsville(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="571500000" bandwidth="1"/>
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="655500000" bandwidth="1"/>
-        <transponder centre_frequency="662500000" bandwidth="1"/>
-        <transponder centre_frequency="669500000" bandwidth="1"/>
-        <transponder centre_frequency="676500000" bandwidth="1"/>
-        <transponder centre_frequency="550500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="620625000" bandwidth="1"/>
-        <transponder centre_frequency="690500000" bandwidth="1"/>
-        <transponder centre_frequency="711500000" bandwidth="1"/>
-        <transponder centre_frequency="732500000" bandwidth="1"/>
-        <transponder centre_frequency="753500000" bandwidth="1"/>
-        <transponder centre_frequency="774500000" bandwidth="1"/>
-    </terrestrial>
-    <terrestrial name="Wollongong(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="578500000" bandwidth="1"/>
-        <transponder centre_frequency="606500000" bandwidth="1"/>
-        <transponder centre_frequency="585500000" bandwidth="1"/>
-        <transponder centre_frequency="592500000" bandwidth="1"/>
-        <transponder centre_frequency="599500000" bandwidth="1"/>
-        <transponder centre_frequency="613500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-        <transponder centre_frequency="690500000" bandwidth="1"/>
-        <transponder centre_frequency="711625000" bandwidth="1"/>
-    </terrestrial>
-    <terrestrial name="Perth(au) (Australia DVB-T/T2)" flags="5">
-        <transponder centre_frequency="177500000" bandwidth="1"/>
-        <transponder centre_frequency="184500000" bandwidth="1"/>
-        <transponder centre_frequency="191500000" bandwidth="1"/>
-        <transponder centre_frequency="219500000" bandwidth="1"/>
-        <transponder centre_frequency="226500000" bandwidth="1"/>
-        <transponder centre_frequency="557500000" bandwidth="1"/>
-        <transponder centre_frequency="613500000" bandwidth="1"/>
-        <transponder centre_frequency="620500000" bandwidth="1"/>
-        <transponder centre_frequency="627500000" bandwidth="1"/>
-        <transponder centre_frequency="634500000" bandwidth="1"/>
-        <transponder centre_frequency="641500000" bandwidth="1"/>
-    </terrestrial>
+    	<terrestrial name="Toowoomba(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="655500000" bandwidth="1"/>
+	        <transponder centre_frequency="662500000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="683500000" bandwidth="1"/>
+	        <transponder centre_frequency="718500000" bandwidth="1"/>
+	        <transponder centre_frequency="739500000" bandwidth="1"/>
+	        <transponder centre_frequency="760500000" bandwidth="1"/>
+	        <transponder centre_frequency="781500000" bandwidth="1"/>
+	        <transponder centre_frequency="802500000" bandwidth="1"/>
+    	</terrestrial>	
+    	<terrestrial name="Townsville(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="571500000" bandwidth="1"/>
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="655500000" bandwidth="1"/>
+	        <transponder centre_frequency="662500000" bandwidth="1"/>
+	        <transponder centre_frequency="669500000" bandwidth="1"/>
+	        <transponder centre_frequency="676500000" bandwidth="1"/>
+	        <transponder centre_frequency="550500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="620625000" bandwidth="1"/>
+	        <transponder centre_frequency="690500000" bandwidth="1"/>
+	        <transponder centre_frequency="711500000" bandwidth="1"/>
+	        <transponder centre_frequency="732500000" bandwidth="1"/>
+	        <transponder centre_frequency="753500000" bandwidth="1"/>
+	        <transponder centre_frequency="774500000" bandwidth="1"/>
+    	</terrestrial>
+    	<terrestrial name="Wollongong(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="578500000" bandwidth="1"/>
+	        <transponder centre_frequency="606500000" bandwidth="1"/>
+	        <transponder centre_frequency="585500000" bandwidth="1"/>
+	        <transponder centre_frequency="592500000" bandwidth="1"/>
+	        <transponder centre_frequency="599500000" bandwidth="1"/>
+	        <transponder centre_frequency="613500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	        <transponder centre_frequency="690500000" bandwidth="1"/>
+	        <transponder centre_frequency="711625000" bandwidth="1"/>
+    	</terrestrial>
+    	<terrestrial name="Perth(au) (Australia DVB-T/T2)" flags="5">
+	        <transponder centre_frequency="177500000" bandwidth="1"/>
+	        <transponder centre_frequency="184500000" bandwidth="1"/>
+	        <transponder centre_frequency="191500000" bandwidth="1"/>
+	        <transponder centre_frequency="219500000" bandwidth="1"/>
+	        <transponder centre_frequency="226500000" bandwidth="1"/>
+	        <transponder centre_frequency="557500000" bandwidth="1"/>
+	        <transponder centre_frequency="613500000" bandwidth="1"/>
+	        <transponder centre_frequency="620500000" bandwidth="1"/>
+	        <transponder centre_frequency="627500000" bandwidth="1"/>
+	        <transponder centre_frequency="634500000" bandwidth="1"/>
+	        <transponder centre_frequency="641500000" bandwidth="1"/>
+	</terrestrial>
 	<terrestrial name="Praha(cz) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
