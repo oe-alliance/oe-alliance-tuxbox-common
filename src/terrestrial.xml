@@ -1112,7 +1112,7 @@
 		<transponder centre_frequency="562000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" /><!-- Ch 32 -->
 		<transponder centre_frequency="586000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" /><!-- Ch 35 -->	
 	</terrestrial>
-	<terrestrial name="Beacon Hill A (Torbay, England)" flags="5">	
+	<terrestrial name="Beacon Hill A (UK) (Europe DVB-T/T2)" flags="5">	
 		<transponder centre_frequency="570000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="642000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
@@ -1122,7 +1122,7 @@
 		<transponder centre_frequency="762200000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="785800000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Caldbeck (Cumbria, England) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Caldbeck (Cumbria,UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="506000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="530000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="546000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
@@ -1135,7 +1135,7 @@
 		<transponder centre_frequency="498000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="482000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Crystal Palace (Greater London, England)" flags="5">
+	<terrestrial name="Crystal Palace (Greater London, UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="482000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="490000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="506000000" bandwidth="0" system="1" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
@@ -1149,16 +1149,16 @@
 	<terrestrial name="Emley Moor (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="673833330" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="2" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Hannington(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Hannington (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="706000000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Mendip(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Mendip (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="754167000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Oxford(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Oxford (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Pontop Pike (England DVB-T/T2)" flags="5">
+	<terrestrial name="Pontop Pike (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="570000000" bandwidth="0" system="0" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="578000000" bandwidth="0" system="0" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="698000000" bandwidth="0" system="0" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
@@ -1169,22 +1169,22 @@
 		<transponder centre_frequency="770000000" bandwidth="0" system="0" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="778000000" bandwidth="0" system="0" constellation="4" guard_interval="4" transmission_mode="3" hierarchy_information="4" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Redruth(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Redruth (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Reigate(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Reigate (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
 	<terrestrial name="Rowridge(UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="489833333" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Sandy Heath(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Sandy Heath (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="641833334" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Storeton(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Storeton (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="546167000" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Sutton Coldfield (Birmingham)" flags="5">	
+	<terrestrial name="Sutton Coldfield (UK) (Europe DVB-T/T2)" flags="5">	
 		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="618200000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="626200000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
@@ -1194,7 +1194,7 @@
 		<transponder centre_frequency="674000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 		<transponder centre_frequency="714000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
 	</terrestrial>
-	<terrestrial name="Winter Hill(UK) (Europe DVB-T/T2)" flags="5">
+	<terrestrial name="Winter Hill (UK) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="754166670" bandwidth="0" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="0" transmission_mode="0" hierarchy_information="0" inversion="2" />
 	</terrestrial>
 	<terrestrial name="Maghera (Ireland DVB-T)" flags="5">
