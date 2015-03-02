@@ -1109,275 +1109,261 @@
 		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<!--
-	The following are the primary transmitters for the Irish terrestrial service Saorview, arranged in alphabetical order.
--->
-	<terrestrial name="Saorview (ie)  Cairn Hill(Longford, Europe DVB-T)" flags="5">
+	<terrestrial name="Clare Primary Tx,(ie), (Woodcock Hill, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Clermont Carn (Louth, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-		<terrestrial name="Saorview (ie)  Dungarvan (Waterford Europe DVB-T)" flags="5">
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Holywell Hill (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Kippure (Wicklow, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Maghera (Clare, Europe DVB-T)" flags="5">
+	<terrestrial name="Clare (Primary Tx)(ie), (Maghera, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Mount Leinster (Wexford, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	<terrestrial name="Clare(ie), (Ennistymon, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Mullaghanish (Kerry, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Spur Hill (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork (Primary Tx),(ie), (Spur Hill, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Three Rock (Dublin, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	<terrestrial name="Cork(ie), (Bandon, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Truskmore (Sligo, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	<terrestrial name="Cork(ie), (Bantry, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>	
-	<terrestrial name="Saorview (ie)  Woodcock Hill (Clare, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-<!--
-	The following are the relay station transmitters for the Irish terrestrial service Saorview arranged in alphabetical order.
--->
-	<terrestrial name="Saorview (ie)  Achill (Mayo, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Aranmore (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Arklow (Wicklow, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Ballina (Tipperary, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Ballybofey (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Bandon (Cork, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Bantry (Cork, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Cahir (Tipperary, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Casla (Galway, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Castlebar (Mayo, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Castletownbere (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Castletownbere, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Clifden (Galway, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Clonakilty (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Clonakilty, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Clonmany (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Clonmel (Tipperary, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Aranmore (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Cnoc an Óir (Kerry, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Collins Barracks (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Collins Barracks, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Crosshaven (Cork, Europe DVB-T)" flags="5">
+	</terrestrial>	
+	<terrestrial name="Cork(ie), (Crosshaven, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Dingle (Kerry, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Dooncarton (Mayo, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Drimoleague (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Drimoleague, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Ennistymon (Clare, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Fermoy, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Fanad (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Fermoy (Cork, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Ferrypoint (Waterford, Europe DVB-T)" flags="5">
+	</terrestrial>	
+	<terrestrial name="Cork(ie), (Glanmire, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Forth Mountain (Wexford, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Gallows Hill (Waterford, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Glanmire (Cork, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Glencolumcille (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Glenties (Donegal, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Leap, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Gorey (Wexford, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Greenore (Louth, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Greystones (Wicklow, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Kilduff (Tipperary, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Kilkeaveragh (Kerry, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Kilmacthomas (Waterford, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Kinsale (Cork, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Cork(ie), (Kinsale, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Knockmoyle (Kerry, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Laragh (Wicklow, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Leap (Cork, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Letterkenny (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Maamclassach (Kerry, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Magheraroarty (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Malin (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Mitchelstown (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Mitchelstown, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Monaghan (Monaghan, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Moville (Donegal, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Mt. Gabriel (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Mt. Gabriel, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Rosscarbery (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Rosscarbery, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Suir Valley (Kilkenny, Europe DVB-T)" flags="5">
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
-	</terrestrial>
-	<terrestrial name="Saorview (ie)  Timoleague (Cork, Europe DVB-T)" flags="5">
+	<terrestrial name="Cork(ie), (Timoleague,Europe DVB-T)" flags="5">
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Saorview (ie)  Tonabrocky (Galway, Europe DVB-T)" flags="5">
+	<terrestrial name="Donegal (Primary Tx)(ie), (Holywell Hill, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Aranmore, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Ballybofey, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Clonmany, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Donegal(ie), (Fanad, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Glencolumcille, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Glenties, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Donegal(ie), (Letterkenny, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Donegal(ie), (Magheraroarty, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Malin, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Donegal(ie), (Moville, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Dublin (Primary Tx)(ie), ( Europe DVB-T)" flags="5">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Galway(ie), (Casla, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Galway(ie), (Clifden, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Galway(ie), (Tonabrocky, Europe DVB-T)" flags="5">
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Kerry(Primary Tx)(ie), (Mullaghanish, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Kerry(ie), (Cnoc an Óir, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
-	<terrestrial name="Maghera(ie) (Europe DVB-T)" flags="5">
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" />
+	<terrestrial name="Kerry(ie), (Dingle, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Kerry(ie), (Kilkeaveragh, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Kerry(ie), (Knockmoyle, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Kerry(ie), (Maamclassach, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Kilkenny(ie), (Suir Valley, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Longford (Primary Tx)(ie), (Cairn Hill, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Louth(Primary Tx)(ie),(Clermont Carn, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Louth(ie), (Greenore, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Mayo(ie), (Achill, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Mayo(ie), (Dooncarton, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Mayo(ie), (Castlebar, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Monaghan(ie), (Monaghan, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Sligo(Primary Tx)(ie),(Tx Truskmore, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Tipperary(ie), (Ballina, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Tipperary(ie), (Cahir, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Tipperary(ie), (Clonmel, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Tipperary(ie), (Kilduff, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Waterford (Primary Tx)(ie), (Dungarvan, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Waterford(ie), (Ferrypoint, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Waterford(ie), (Gallows Hill, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Waterford(ie), (Kilmacthomas, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Wexford (Primary Tx)(ie), (Mount Leinster, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Wexford(ie), (Forth Mountain, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Wexford(ie), (Gorey, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Wicklow(Primary Tx)(ie), (Kippure, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Wicklow(ie), (Arklow, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>	
+	<terrestrial name="Wicklow(ie), (Greystones, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+	</terrestrial>
+	<terrestrial name="Wicklow(ie), (Laragh, Europe DVB-T)" flags="5">
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" guard_interval="0" transmission_mode="1" code_rate_hp="1" code_rate_lp="1" hierarchy_information="0" />
 	</terrestrial>
 	<terrestrial name="Iceland(is) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/>
