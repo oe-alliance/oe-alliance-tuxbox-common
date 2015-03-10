@@ -1454,6 +1454,16 @@
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
+	<terrestrial name="Israel/Palestine(il) (Europe DVB-T/T2)" flags="5">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
+	</terrestrial>
 	<terrestrial name="Italia(it) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="186000000" bandwidth="1" constellation="2" code_rate_hp="6" code_rate_lp="6" guard_interval="0" transmission_mode="1" hierarchy_information="0" inversion="2" />
