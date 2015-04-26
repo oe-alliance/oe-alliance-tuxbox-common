@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Saturday, 25th of April 2015 19:31:15 [GMT]
+	File created on Sunday, 26th of April 2015 21:35:50 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="0" position="-1771">
@@ -3066,6 +3066,9 @@
 		<transponder frequency="12688000" symbol_rate="30000000" polarization="0" fec_inner="5" system="0" modulation="1"/>
 		<transponder frequency="12688000" symbol_rate="30000000" polarization="1" fec_inner="5" system="0" modulation="1"/>
 		<transponder frequency="12729000" symbol_rate="30000000" polarization="1" fec_inner="5" system="0" modulation="1"/>
+	</sat>
+	<sat name="40.0E C-band Express AM7" flags="0" position="401">
+		<transponder frequency="3675000" symbol_rate="33483000" polarization="3" fec_inner="5" system="0" modulation="1"/>
 	</sat>
 	<sat name="42.0E Türksat 2A/3A/4A" flags="0" position="420">
 		<transponder frequency="10962000" symbol_rate="16666000" polarization="0" fec_inner="3" system="0" modulation="1"/>
