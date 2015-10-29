@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Thursday, 29th of October 2015 13:15:43 [GMT]
+	File created on Thursday, 29th of October 2015 16:00:17 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="0" position="-1771">
@@ -1973,13 +1973,13 @@
 		<transponder frequency="11671000" symbol_rate="1480000" polarization="1" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="11687000" symbol_rate="5185000" polarization="1" fec_inner="3" system="0" modulation="1"/>
 	</sat>
-	<sat name="1.0W C-band Thor 5/6/7 &amp; Intelsat 10-02" flags="0" position="-11">
+	<sat name="0.8W C-band Thor 5/6/7 &amp; Intelsat 10-02" flags="0" position="-9">
 		<transponder frequency="3722000" symbol_rate="18000000" polarization="3" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="3977000" symbol_rate="17777000" polarization="2" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="4032000" symbol_rate="1000000" polarization="2" fec_inner="4" system="1" modulation="2"/>
 		<transponder frequency="4175000" symbol_rate="28000000" polarization="3" fec_inner="3" system="0" modulation="1"/>
 	</sat>
-	<sat name="1.0W Ku-band Thor 5/6/7 &amp; Intelsat 10-02" flags="0" position="-10">
+	<sat name="0.8W Ku-band Thor 5/6/7 &amp; Intelsat 10-02" flags="0" position="-8">
 		<transponder frequency="10716000" symbol_rate="24500000" polarization="0" fec_inner="5" system="0" modulation="1"/>
 		<transponder frequency="10747000" symbol_rate="25000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10747000" symbol_rate="25000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
@@ -2096,7 +2096,7 @@
 		<transponder frequency="4151000" symbol_rate="2141000" polarization="3" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="4173000" symbol_rate="1917000" polarization="3" fec_inner="4" system="1" modulation="1"/>
 	</sat>
-	<sat name="5.0E Ku-band Astra 4A &amp; SES 5" flags="0" position="50">
+	<sat name="4.8E Ku-band Astra 4A &amp; SES 5" flags="0" position="48">
 		<transponder frequency="11265000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11265000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11305000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
@@ -2169,7 +2169,7 @@
 		<transponder frequency="12722000" symbol_rate="4430000" polarization="1" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="12725000" symbol_rate="1480000" polarization="1" fec_inner="6" system="1" modulation="2"/>
 	</sat>
-	<sat name="5.0E C-band Astra 4A &amp; SES 5" flags="0" position="51">
+	<sat name="4.8E C-band Astra 4A &amp; SES 5" flags="0" position="49">
 		<transponder frequency="3644000" symbol_rate="1300000" polarization="2" fec_inner="4" system="1" modulation="1"/>
 		<transponder frequency="3843000" symbol_rate="1055000" polarization="3" fec_inner="9" system="1" modulation="1"/>
 		<transponder frequency="3857000" symbol_rate="1520000" polarization="3" fec_inner="7" system="1" modulation="1"/>
