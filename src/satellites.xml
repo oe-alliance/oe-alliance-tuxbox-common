@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Saturday, 12th of December 2015 20:46:25 [GMT]
+	File created on Saturday, 12th of December 2015 21:58:37 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="0" position="-1771">
@@ -3249,7 +3249,7 @@
 		<transponder frequency="3675000" symbol_rate="33483000" polarization="3" fec_inner="5" system="0" modulation="1"/>
 		<transponder frequency="3708000" symbol_rate="4280000" polarization="2" fec_inner="5" system="0" modulation="1"/>
 	</sat>
-	<sat name="55.0E G-Sat 8 &amp; Yamal 402" flags="0" position="550">
+	<sat name="54.9E G-Sat 8 &amp; Yamal 402" flags="0" position="549">
 		<transponder frequency="10962000" symbol_rate="5926000" polarization="1" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="10968000" symbol_rate="10852000" polarization="1" fec_inner="1" system="0" modulation="1"/>
 		<transponder frequency="10998000" symbol_rate="2200000" polarization="1" fec_inner="7" system="1" modulation="2"/>
