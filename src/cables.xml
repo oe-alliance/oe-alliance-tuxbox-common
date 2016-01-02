@@ -4246,6 +4246,30 @@
 		<transponder frequency="778000000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="786000000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 	</cable>
+	<cable name="NOS - Lisbon" satfeed="true" flags="9">
+		<transponder frequency="170500000" symbol_rate="6000000" fec_inner="0" modulation="5" />
+		<transponder frequency="191500000" symbol_rate="6000000" fec_inner="0" modulation="5" />
+		<transponder frequency="219500000" symbol_rate="6000000" fec_inner="0" modulation="5" />
+		<transponder frequency="233500000" symbol_rate="6000000" fec_inner="0" modulation="4" />
+		<transponder frequency="240500000" symbol_rate="6000000" fec_inner="0" modulation="4" />
+		<transponder frequency="247500000" symbol_rate="6000000" fec_inner="0" modulation="5" />
+		<transponder frequency="268500000" symbol_rate="6000000" fec_inner="0" modulation="5" />
+		<transponder frequency="410000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="434000000" symbol_rate="6875000" fec_inner="0" modulation="4" />
+		<transponder frequency="450000000" symbol_rate="6875000" fec_inner="0" modulation="4" />
+		<transponder frequency="458000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="474000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="514000000" symbol_rate="6875000" fec_inner="0" modulation="4" />
+		<transponder frequency="538000000" symbol_rate="6875000" fec_inner="0" modulation="4" />
+		<transponder frequency="602000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="610000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="618000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="634000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="642000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="690000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="698000000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="714000000" symbol_rate="6875000" fec_inner="0" modulation="3" />
+	</cable>
 	<cable name="Numericable-France-ref.freq.-xxx000" satfeed="true" flags="9">
 		<transponder frequency="112000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 		<transponder frequency="120000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
