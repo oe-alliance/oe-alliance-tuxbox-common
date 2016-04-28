@@ -5819,7 +5819,7 @@
 		<transponder frequency="434000000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="442000000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 	</cable>	
-	<cable name="TeleColumbus" satfeed="true" flags="9">
+	<cable name="TeleColumbus Berlin" satfeed="true" flags="9">
 		<transponder frequency="122000000" symbol_rate="6900000" fec_inner="0" modulation="3" scantime="25/4/2016" />
 		<transponder frequency="130000000" symbol_rate="6900000" fec_inner="0" modulation="5" scantime="25/4/2016" />
 		<transponder frequency="138000000" symbol_rate="6900000" fec_inner="0" modulation="5" scantime="25/4/2016" />
