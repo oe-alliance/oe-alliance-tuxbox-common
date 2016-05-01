@@ -6804,6 +6804,57 @@
 		<transponder frequency="578000000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
 		<transponder frequency="586000000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
 	</cable>
+	<cable name="ZIGGO-Limburg (NL)" satfeed="true" flags="9">
+		<transponder frequency="474000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="691000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="372000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="168000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="803000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="380000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="176000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="771000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="675000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="356000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="364000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="452000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="555000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="539000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="563000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="739000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="827000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="388000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="396000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="499000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="627000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="683000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="659000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="466000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="763000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="819000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="571000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="587000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="595000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="611000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="160000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="707000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="643000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="579000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="547000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="523000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="120000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="619000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="811000000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		# OnDemand Stream
+		<transponder frequency="420000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="428000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="436000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="444000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		# Horizon Stream
+		<transponder frequency="128000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="136000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="144000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+		<transponder frequency="152000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+	</cable>
 	<cable name="ZIGGO-NETHERLANDS" satfeed="true" flags="9">
 		<transponder frequency="113000000" symbol_rate="6875000" fec_inner="15" modulation="3"/>
 		<transponder frequency="119000000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
