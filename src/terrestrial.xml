@@ -1221,14 +1221,6 @@
 		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" /><!-- Ch 54 -->
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" /><!-- Ch 55 -->
 	</terrestrial>
-	<terrestrial name="Andorra (Europe DVB-T/T2)" flags="5">
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" /><!-- Ch 25 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" /><!-- Ch 28 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" /><!-- Ch 36 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /><!-- Ch 42 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /><!-- Ch 45 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /><!-- Ch 57 -->
-	</terrestrial>
 	<terrestrial name="Suomi(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" system="1" constellation="3" />
 		<transponder centre_frequency="184500000" bandwidth="1" system="1" constellation="3" />
