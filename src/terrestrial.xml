@@ -1177,6 +1177,23 @@
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" /><!-- Ch 48 -->
 		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" /><!-- Ch 54 -->
 	</terrestrial>
+	<terrestrial name="Murcia(es) (Europe DVB-T/T2)" flags="5">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" /><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" /><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" /><!-- Ch 29 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" /><!-- Ch 31 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" /><!-- Ch 36 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" /><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" /><!-- Ch 39 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /><!-- Ch 42 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" /><!-- Ch 44 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" /><!-- Ch 47 -->
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" /><!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" /><!-- Ch 51 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" /><!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" /><!-- Ch 56 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" /><!-- Ch 59 -->
+	</terrestrial>
 	<terrestrial name="Ses Illes(es) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" /><!-- Ch 21 -->
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" /><!-- Ch 24 -->
@@ -1203,6 +1220,14 @@
 		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" /><!-- Ch 53 -->
 		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" /><!-- Ch 54 -->
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" /><!-- Ch 55 -->
+	</terrestrial>
+	<terrestrial name="Andorra (Europe DVB-T/T2)" flags="5">
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" /><!-- Ch 25 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" /><!-- Ch 28 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" /><!-- Ch 36 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /><!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /><!-- Ch 45 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /><!-- Ch 57 -->
 	</terrestrial>
 	<terrestrial name="Suomi(fi) (Europe DVB-T/T2)" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" system="1" constellation="3" />
