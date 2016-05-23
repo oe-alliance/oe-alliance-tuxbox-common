@@ -3190,7 +3190,7 @@
 		<transponder frequency="866000000" symbol_rate="6952000" fec_inner="3" modulation="5" />
 	</cable>
 	<cable name="Cablecom Schweiz" satfeed="true" flags="9">
- <transponder frequency="106000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="106000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="114000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="122000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="130000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
