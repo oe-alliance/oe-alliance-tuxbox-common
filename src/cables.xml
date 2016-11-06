@@ -6273,7 +6273,7 @@
 		<transponder frequency="170000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="346000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="354000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="362000000" symbol_rate="6900000" fec_inner="9" modulation="3" />
+		<transponder frequency="362000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="370000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="378000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="386000000" symbol_rate="6900000" fec_inner="9" modulation="5" />
