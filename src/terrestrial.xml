@@ -2101,26 +2101,27 @@
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="Russia, Moscow: DVB-T2" flags="5">
+	<terrestrial name="Russia, Moscow: DVB-T/T2" flags="5">
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 	</terrestrial>
-	<terrestrial name="Russia, Krasnodar: DVB-T2" flags="5">
+	<terrestrial name="Russia, Krasnodar: DVB-T/T2" flags="5">
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" system="1" plp_id="2"/>
 	</terrestrial>
-	<terrestrial name="Russia, Novosibirsk: DVB-T2" flags="5">
+	<terrestrial name="Russia, Novosibirsk: DVB-T/T2" flags="5">
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="2" system="1" plp_id="2"/>
 	</terrestrial>
-	<terrestrial name="Russia, Volgodonsk: DVB-T2" flags="5">
+	<terrestrial name="Russia, Volgodonsk: DVB-T/T2" flags="5">
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" system="1" plp_id="2"/>
 	</terrestrial>
-	<terrestrial name="Russia, Elets: DVB-T2" flags="5">
+	<terrestrial name="Russia, Elets: DVB-T/T2" flags="5">
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="0"/>
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="1"/>
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="2"/>
