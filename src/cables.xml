@@ -6342,6 +6342,7 @@
 		<transponder frequency="818000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="826000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="834000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="842000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="850000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 	</cable>
