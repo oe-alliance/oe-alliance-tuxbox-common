@@ -1259,18 +1259,6 @@
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" />
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" />
 	</terrestrial>
 	<terrestrial name="France TNT(fr) (Europe DVB-T/T2)" flags="5"> 
 		<transponder centre_frequency="474166000" bandwidth="0" constellation="3" />
