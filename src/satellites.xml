@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Sunday, 19th of February 2017 10:52:15 [GMT]
+	File created on Sunday, 19th of February 2017 11:03:14 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="0" position="-1771">
@@ -3237,6 +3237,10 @@
 	</sat>
 	<sat name="50.5E C-band NSS 5" flags="0" position="506">
 		<transponder frequency="4172000" symbol_rate="13330000" polarization="3" fec_inner="3" system="0" modulation="1"/>
+	</sat>
+	<sat name="51.5E Ku-band Belintersat 1" flags="0" position="515">
+		<transponder frequency="11219000" symbol_rate="14240000" polarization="0" fec_inner="8" system="1" modulation="1"/>
+		<transponder frequency="11253000" symbol_rate="1981000" polarization="0" fec_inner="8" system="1" modulation="1"/>
 	</sat>
 	<sat name="51.5E C-band Belintersat 1" flags="0" position="516">
 		<transponder frequency="3727000" symbol_rate="2960000" polarization="3" fec_inner="3" system="0" modulation="1"/>
