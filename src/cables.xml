@@ -4036,7 +4036,7 @@
 		<transponder frequency="578000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="578000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	<cable name="Kabelnetz Guben" satfeed="true" flags="9" countrycode="DEN">
+	<cable name="Kabelnetz Guben" satfeed="true" flags="9" countrycode="DNK">
 		<transponder frequency="322000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
 		<transponder frequency="322000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="330000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
