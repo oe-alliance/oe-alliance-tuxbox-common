@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!--
 	The scans are conducted in kHz. Please keep frequency to 6 digits
-	All the images divide the values so that only 6 digits remain.	
- 
+	All the images divide the values so that only 6 digits remain.
+
     Countries sorted by three letter country code (ISO 3166).
     Regions sorted alpabetically.
-    
+
     Countrycode use Alpha-3 code
 	http://www.nationsonline.org/oneworld/country_code_list.htm
 	https://en.wikipedia.org/wiki/ISO_3166-1
- 
+
     Transponders are sorted by frequency.
 
 	modulation:
 	3: QAM64
 	5: QAM256
- 
+
 	flags:
     Could someone describe why this is there
 
 	satfeed:
 	Could someone describe why this is there
-    
-    Please report missing frequencies and pointers to regional standards to 
+
+    Please report missing frequencies and pointers to regional standards to
 	https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/cables.xml
 -->
 
@@ -1151,7 +1151,7 @@
 		<transponder frequency="866000" symbol_rate="6225000" fec_inner="9" modulation="2"/>
 		<transponder frequency="866000" symbol_rate="6225000" fec_inner="9" modulation="3"/>
 		<transponder frequency="866000" symbol_rate="6225000" fec_inner="9" modulation="4"/>
-		<transponder frequency="866000" symbol_rate="6225000" fec_inner="9" modulation="5"/>	
+		<transponder frequency="866000" symbol_rate="6225000" fec_inner="9" modulation="5"/>
 	</cable>
 	<cable name="CableBruteforce Lang" satfeed="true" flags="9">
 		<transponder frequency="073000" symbol_rate="6111000" fec_inner="9" modulation="6"/>
@@ -3343,7 +3343,7 @@
 		<transponder frequency="458000" symbol_rate="6875000" fec_inner="3" modulation="5"/>
 		<transponder frequency="466000" symbol_rate="6875000" fec_inner="3" modulation="5"/>
 		<transponder frequency="474000" symbol_rate="6875000" fec_inner="3" modulation="5"/>
-	</cable>	
+	</cable>
 	<cable name="Caiway (NL) Gouda" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="178000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 		<transponder frequency="186000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
@@ -3391,7 +3391,7 @@
 		<transponder frequency="850000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 	</cable>
-	<cable name="Caiway (NL) (multi. regions?)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Caiway (NL) (multi. regions?)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="165000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 		<transponder frequency="306000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 		<transponder frequency="314000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
@@ -3438,7 +3438,7 @@
 		<transponder frequency="842000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 		<transponder frequency="850000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 	</cable>
-	<cable name="Cogas (NL)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Cogas (NL)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="156000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="164000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="369000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
@@ -3470,7 +3470,7 @@
 		<transponder frequency="815750" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="823750" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 	</cable>
-	<cable name="DELTA (NL)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="DELTA (NL)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="162000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 		<transponder frequency="370000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 		<transponder frequency="378000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
@@ -3544,7 +3544,6 @@
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="138000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="146000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
-		<transponder frequency="146000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="4"/>
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="0" modulation="4"/>
@@ -3558,8 +3557,6 @@
 		<transponder frequency="218000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="226000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="234000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
-		<transponder frequency="238000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
-		<transponder frequency="242000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="242000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="250000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="258000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -3592,6 +3589,11 @@
 		<transponder frequency="442000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="450000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="458000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="466000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="474000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="482000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="490000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="498000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="530000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="538000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="546000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -3600,6 +3602,7 @@
 		<transponder frequency="570000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="578000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="586000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="594000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 	</cable>
 	<cable name="Euskaltel Spain" satfeed="true" flags="9" countrycode="ESP">
 		<transponder frequency="426000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
@@ -4068,7 +4071,7 @@
 		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="338000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="338000" symbol_rate="6900000" fec_inner="9" modulation="5"/>	
+		<transponder frequency="338000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="354000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
@@ -5855,7 +5858,7 @@
 		<transponder frequency="842000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 		<transponder frequency="850000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 		<transponder frequency="858000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
-	</cable> 
+	</cable>
 	<cable name="Pircher" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -6097,7 +6100,7 @@
 		<transponder frequency="586000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="602000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="634000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
-	</cable>  
+	</cable>
 	<cable name="Stadtwerke Kapfenberg HiWay" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="306000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -7312,7 +7315,7 @@
 		<transponder frequency="578000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
 		<transponder frequency="586000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
 	</cable>
-	<cable name="Ziggo (NL) (alle netwerken)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Ziggo (NL) (alle netwerken)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="120000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="122750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -7435,7 +7438,7 @@
 		<transponder frequency="842750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 	</cable>
-	<cable name="Ziggo (NL) (vm. UPC, alle netwerken)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Ziggo (NL) (vm. UPC, alle netwerken)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="124000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="132000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="140000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -7505,7 +7508,7 @@
 		<transponder frequency="850750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="858750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 	</cable>
-	<cable name="Ziggo (NL) Noord-Holland (vm. Multikabel HE Alkmaar)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Ziggo (NL) Noord-Holland (vm. Multikabel HE Alkmaar)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="122750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="154750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="162750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -7547,7 +7550,7 @@
 		<transponder frequency="826750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="842750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 	</cable>
-	<cable name="Ziggo Noord (NL)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Ziggo Noord (NL)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="170000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -7590,7 +7593,7 @@
 		<transponder frequency="842000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 	</cable>
-	<cable name="Ziggo West (NL)" satfeed="true" flags="9" countrycode="NLD">	
+	<cable name="Ziggo West (NL)" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="306000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
