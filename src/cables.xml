@@ -6649,7 +6649,7 @@
 		<transponder frequency="747000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="755000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 	</cable>
-	<cable name="Virgin Media UK (Brute force)" satfeed="true" flags="9" countrycode="GBR">
+	<cable name="Virgin Media UK (All systems)" satfeed="true" flags="9" countrycode="GBR">
 		<transponder frequency="115000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="123000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="130750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
