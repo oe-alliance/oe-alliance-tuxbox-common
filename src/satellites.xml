@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Tuesday, 22nd of August 2017 08:12:33 [GMT]
+	File created on Thursday, 24th of August 2017 17:10:44 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="0" position="-1771">
@@ -3134,7 +3134,7 @@
 	</sat>
 	<sat name="45.0E Intelsat 12/904" flags="0" position="450">
 		<transponder frequency="11155000" symbol_rate="45000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
-		<transponder frequency="11475000" symbol_rate="26666000" polarization="1" fec_inner="7" system="1" modulation="1" pls_code="218997" pls_mode="0"/>
+		<transponder frequency="11475000" symbol_rate="26666000" polarization="1" fec_inner="7" system="1" modulation="1" is_id="1" pls_code="218997" pls_mode="0"/>
 		<transponder frequency="11495000" symbol_rate="45000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="11513000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="11555000" symbol_rate="27689000" polarization="1" fec_inner="7" system="1" modulation="2"/>
