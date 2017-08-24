@@ -5955,7 +5955,7 @@
 		<transponder frequency="786000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="794000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="802000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		</cable>
+	</cable>
 	<cable name="RFT Kabel Brandenburg" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
