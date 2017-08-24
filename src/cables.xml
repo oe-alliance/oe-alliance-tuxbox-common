@@ -5917,21 +5917,19 @@
 	</cable>
 	<cable name="Primacom" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="113000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="113000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="121000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="121000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="129000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="137000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="145000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="153000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="306000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="322000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="161000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="169000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="306000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="322000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="338000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="354000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="354000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="362000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -5941,17 +5939,23 @@
 		<transponder frequency="402000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="410000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="442000" symbol_rate="6956000" fec_inner="9" modulation="3"/>
-		<transponder frequency="450000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="466000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="450000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="466000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="474000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="594000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="602000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="746000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="754000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="754000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="762000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
-		<transponder frequency="762000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-	</cable>
+		<transponder frequency="770000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="778000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="786000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="794000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="802000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		</cable>
 	<cable name="RFT Kabel Brandenburg" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
