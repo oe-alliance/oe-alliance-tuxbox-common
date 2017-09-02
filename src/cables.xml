@@ -6343,7 +6343,7 @@
 		<transponder frequency="586000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="594000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	<cable name="Unitymedia/KabelBW" satfeed="true" flags="9" countrycode="DEU">
+	<cable name="Unitymedia" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -6352,7 +6352,27 @@
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="170000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="186000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="194000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="202000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="210000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="218000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="226000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="234000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="242000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="250000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="258000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="266000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="274000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="282000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="290000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="298000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="306000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="314000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="322000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="330000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="338000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="346000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="354000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="362000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
