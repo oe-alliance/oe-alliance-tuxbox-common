@@ -637,7 +637,6 @@
 		<transponder centre_frequency="786000000" bandwidth="0" />
 	</terrestrial>
 	<terrestrial name="Stuttgart-Frauenkopf (Europe DVB-T/T2)" flags="5" countrycode="DEU">
-		<terrestrial name="Stuttgart/Frauenkopf (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" />
 		<transponder centre_frequency="498000000" bandwidth="0" />
 		<transponder centre_frequency="522000000" bandwidth="0" />
