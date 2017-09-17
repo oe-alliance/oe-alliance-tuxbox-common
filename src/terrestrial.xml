@@ -624,12 +624,12 @@
 		<transponder centre_frequency="834000000" bandwidth="0" />
 	</terrestrial>
 	<terrestrial name="Rhein-Main (Europe DVB-T/T2)" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" />
 		<transponder centre_frequency="482000000" bandwidth="0" />
 		<transponder centre_frequency="578000000" bandwidth="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" />
 		<transponder centre_frequency="738000000" bandwidth="0" />
-		<transponder centre_frequency="762000000" bandwidth="0" />
-		<transponder centre_frequency="818000000" bandwidth="0" />
+		<transponder centre_frequency="778000000" bandwidth="0" />
 	</terrestrial>
 	<terrestrial name="Heidelberg/BadenBaden/Donnersberg/Pforzheim (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" />
