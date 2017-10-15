@@ -6345,7 +6345,7 @@
 		<transponder frequency="594000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
 	<cable name="Unitymedia" satfeed="true" flags="9" countrycode="DEU">
-<!-- lastupdated mike99 20170917 -->
+<!-- lastupdated mike99 20171015 -->
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -6354,6 +6354,7 @@
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="170000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="178000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="186000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="194000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="202000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
