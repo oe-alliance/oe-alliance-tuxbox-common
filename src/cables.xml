@@ -4507,7 +4507,7 @@
 		<transponder frequency="778000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="786000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 	</cable>
-	<cable name="NOS - Lisbon" satfeed="true" flags="9" countrycode="ESP">
+	<cable name="NOS - Lisbon" satfeed="true" flags="9" countrycode="PRT">
 		<transponder frequency="170500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
 		<transponder frequency="191500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
 		<transponder frequency="219500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
