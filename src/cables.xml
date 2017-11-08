@@ -6659,7 +6659,7 @@
 		<transponder frequency="795000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="803000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="819000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
-		<transponder frequency="827000" symbol_rate="6952000" fec_inner="3" modulation="5"/>	
+		<transponder frequency="827000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 	</cable>
 	<cable name="Virgin Media UK (Telewest)" satfeed="true" flags="9" countrycode="GBR">
 		<transponder frequency="115000" symbol_rate="6952000" fec_inner="3" modulation="5"/>
