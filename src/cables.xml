@@ -6521,6 +6521,33 @@
 		<transponder frequency="843000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
 		<transponder frequency="851000" symbol_rate="6887000" fec_inner="3" modulation="3"/>
 	</cable>
+	<cable name="Virgin Media Ireland (Dublin)" satfeed="true" flags="0" countrycode="IRL">
+		<transponder frequency="150000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="158000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="166000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="291000" symbol_rate="6887000" fec_inner="0" modulation="3"/>
+		<transponder frequency="299000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="307000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="315000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="323500" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="339500" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="347500" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="356000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="364000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="372000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="401250" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="418250" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="426250" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="444000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="452000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="460000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="538000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="554000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="562000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="570000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="586000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+		<transponder frequency="594000" symbol_rate="6887000" fec_inner="0" modulation="5"/>
+	</cable>
 	<cable name="Virgin Media UK (ex CW)" satfeed="true" flags="0" countrycode="GBR">
 		<transponder frequency="114750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="122750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
