@@ -4508,28 +4508,25 @@
 		<transponder frequency="786000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 	</cable>
 	<cable name="NOS - Lisbon" satfeed="true" flags="9" countrycode="PRT">
-		<transponder frequency="170500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
-		<transponder frequency="191500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
-		<transponder frequency="219500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
-		<transponder frequency="233500" symbol_rate="6000000" fec_inner="0" modulation="4"/>
-		<transponder frequency="240500" symbol_rate="6000000" fec_inner="0" modulation="4"/>
-		<transponder frequency="247500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
-		<transponder frequency="268500" symbol_rate="6000000" fec_inner="0" modulation="5"/>
-		<transponder frequency="410000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="434000" symbol_rate="6875000" fec_inner="0" modulation="4"/>
-		<transponder frequency="450000" symbol_rate="6875000" fec_inner="0" modulation="4"/>
-		<transponder frequency="458000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="474000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="514000" symbol_rate="6875000" fec_inner="0" modulation="4"/>
-		<transponder frequency="538000" symbol_rate="6875000" fec_inner="0" modulation="4"/>
-		<transponder frequency="602000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="610000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="618000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="634000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="642000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="690000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="698000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
-		<transponder frequency="714000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
+                <transponder frequency="296500" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="306000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="338000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="346000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="354000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="362000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="370000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="378000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="394000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="402000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="410000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="418000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="426000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="434000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="442000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="450000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="458000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="466000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+                <transponder frequency="714000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 	</cable>
 	<cable name="Numericable-France-ref.freq.-xxx000" satfeed="true" flags="9" countrycode="FRA">
 		<transponder frequency="112000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
