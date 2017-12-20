@@ -4529,7 +4529,7 @@
 		<transponder frequency="714000" symbol_rate="6875000" fec_inner="0" modulation="3"/>
 	</cable>
 	<cable name="NOWO" satfeed="true" flags="9" countrycode="PRT">
-		<transponder frequency="354000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="354000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="362000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="370000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="378000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
