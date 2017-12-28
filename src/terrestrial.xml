@@ -609,15 +609,15 @@
 		<transponder centre_frequency="826000000" bandwidth="0" />
 		<transponder centre_frequency="834000000" bandwidth="0" />
 	</terrestrial>
-        <terrestrial name="Leipzig (Europe DVB-T2)" flags="5" countrycode="DEU">
-                <transponder centre_frequency="498000000" bandwidth="0" />
-                <transponder centre_frequency="514000000" bandwidth="0" />
-                <transponder centre_frequency="530000000" bandwidth="0" />
-                <transponder centre_frequency="554000000" bandwidth="0" />
-                <transponder centre_frequency="586000000" bandwidth="0" />
-                <transponder centre_frequency="650000000" bandwidth="0" />
-                <transponder centre_frequency="698000000" bandwidth="0" />
-        </terrestrial>
+	<terrestrial name="Leipzig (Europe DVB-T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="498000000" bandwidth="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" />
+		<transponder centre_frequency="530000000" bandwidth="0" />
+		<transponder centre_frequency="554000000" bandwidth="0" />
+		<transponder centre_frequency="586000000" bandwidth="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" />
+	</terrestrial>
 	<terrestrial name="Muenchen/Suedbayern (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="514000000" bandwidth="0" />
 		<transponder centre_frequency="578000000" bandwidth="0" />
@@ -1223,12 +1223,12 @@
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
 	<terrestrial name="Estonia - Valgjärve (Europe DVB-T/T2)" flags="0" countrycode="EST">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/> 		
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/>		
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="722000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/>	
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
 	<terrestrial name="Estonia - Koeru (Europe DVB-T/T2)" flags="0" countrycode="EST">
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/>
