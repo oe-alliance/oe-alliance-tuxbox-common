@@ -6171,7 +6171,7 @@
 		<transponder frequency="634000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="722000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	<cable name="Starman - Estonia" satfeed="true" flags="9" countrycode="EST">
+	<cable name="Elisa - Estonia" satfeed="true" flags="9" countrycode="EST">
 		<transponder frequency="266000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="274000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="282000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
