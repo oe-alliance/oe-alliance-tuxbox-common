@@ -6190,6 +6190,7 @@
 		<transponder frequency="546000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="554000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 		<transponder frequency="562000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
+		<transponder frequency="570000" symbol_rate="6875000" fec_inner="0" modulation="5"/>
 	</cable>
 	<cable name="TeleColumbus Berlin" satfeed="true" flags="9"  countrycode="DEU">
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
