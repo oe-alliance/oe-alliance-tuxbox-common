@@ -3580,6 +3580,7 @@
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="138000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="146000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="146000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="4"/>
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="0" modulation="4"/>
