@@ -3619,6 +3619,7 @@
 		<transponder frequency="418000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="426000" symbol_rate="6900000" fec_inner="0" modulation="4"/>
 		<transponder frequency="426000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="434000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="442000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="450000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="458000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
@@ -6114,7 +6115,7 @@
 		<transponder frequency="546000" symbol_rate="6875000" fec_inner="15" modulation="5"/>
 		<transponder frequency="554000" symbol_rate="6875000" fec_inner="15" modulation="5"/>
 	</cable>
-	<cable name="Sonera" satfeed="true" flags="9" countrycode="FIN">
+	<cable name="Telia" satfeed="true" flags="9" countrycode="FIN">
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="170000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
