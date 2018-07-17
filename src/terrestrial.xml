@@ -1585,11 +1585,11 @@
 		<transponder centre_frequency="474000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 21 (HD) -->
 		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 24 -->
 		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 27 -->
-		<transponder centre_frequency="562000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 32 (HD) -->
-		<transponder centre_frequency="578000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 34 (HD) -->
+		<transponder centre_frequency="594000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 36 -->
 		<transponder centre_frequency="690000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 48 -->
 		<transponder centre_frequency="714000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 51 -->
-		<transponder centre_frequency="722000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 52 -->
+		<transponder centre_frequency="746000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 55 (HD) -->
+		<transponder centre_frequency="754000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 56 (HD) -->
 	</terrestrial>
 	<terrestrial name="Sutton Coldfield, Birmingham (Europe DVB-T/T2)" flags="5" countrycode="GBR">
 		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /><!-- Ch 33 (HD) -->
