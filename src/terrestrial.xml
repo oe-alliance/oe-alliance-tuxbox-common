@@ -185,335 +185,352 @@
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /><!-- Ch 45 -->
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /><!-- Ch 57 -->
 	</terrestrial>
-	<terrestrial name="Australia, all regions (DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="184500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="191500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="198500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="205500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="212500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="219500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="226500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="529500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="536500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="543500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="550500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="557500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="564500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="571500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="578500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="585500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="592500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="599500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="606500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="613500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="620500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="627500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="634500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="641500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="648500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="655500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="662500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="669500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="676500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="683500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="690500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="697500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="704500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="711500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="718500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="725500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="732500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="739500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="746500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="753500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="760500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="767500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="774500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="781500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="788500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="795500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="802500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="809500000" bandwidth="1" constellation="3"/>
-		<transponder centre_frequency="816500000" bandwidth="1" constellation="3"/>
+	<terrestrial name="Australia, all regions (DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Transmitter Sites:
+			All Australian Digital TV channels
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 6 -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 7 -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 8 -->
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 9 -->
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 9A -->
+		<transponder centre_frequency="212500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 10 -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 11 -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 12 -->
+		<transponder centre_frequency="529500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 28 -->
+		<transponder centre_frequency="536500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 29 -->
+		<transponder centre_frequency="543500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 30 -->
+		<transponder centre_frequency="550500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 31 -->
+		<transponder centre_frequency="557500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 32 -->
+		<transponder centre_frequency="564500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 33 -->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 34 -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 35 -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 36 -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 37 -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 38 -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 39 -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 40 -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 41 -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 42 -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 43 -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 44 -->
+		<transponder centre_frequency="648500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 45 -->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 46 -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 47 -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 48 -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 49 -->
+		<transponder centre_frequency="683500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 50 -->
+		<transponder centre_frequency="690500000" bandwidth="1" constellation="3" system="0" /><!-- Ch 51 -->
 	</terrestrial>
-	<terrestrial name="Adelaide (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191500000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="564500000" bandwidth="1"/>
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="571625000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="578625000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="585625000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="592625000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
+	<terrestrial name="Adelaide (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Adelaide, Adelaide Foothills, Craigmore/Hillbank, Victor Harbor
+		Transmitter Sites:
+			Adelaide, Crafers, Elizabeth Downs, Newland Hill
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- SAS6 @ Crafers -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Crafers -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- NWS8 @ Crafers -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- ADS11 @ Crafers -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Crafers -->
+		<transponder centre_frequency="564500000" bandwidth="1" constellation="3" system="0" /><!-- CTS33 @ Crafers -->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- SBS34 @ Adelaide, Elizabeth Downs, Newland Hill -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- SAS35 @ Adelaide, Elizabeth Downs, Newland Hill -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- NWS36 @ Adelaide, Elizabeth Downs, Newland Hill -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- ADS37 @ Adelaide, Elizabeth Downs, Newland Hill -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- ABC39 @ Adelaide, Elizabeth Downs, Newland Hill -->
 	</terrestrial>
-	<terrestrial name="Brisbane (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191625000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="529500000" bandwidth="1"/>
+	<terrestrial name="Brisbane (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Brisbane
+		Transmitter Sites:
+			Mount Coot-tha
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- BTQ6 @ Mount Coot-tha -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Mount Coot-tha -->
+		<transponder centre_frequency="191625000" bandwidth="1" constellation="3" system="0" /><!-- QTQ8 @ Mount Coot-tha -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- TVQ11 @ Mount Coot-tha -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Mount Coot-tha -->
 	</terrestrial>
-	<terrestrial name="Cairns (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191500000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="536500000" bandwidth="1"/>
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
-		<transponder centre_frequency="648500000" bandwidth="1"/>
-		<transponder centre_frequency="655500000" bandwidth="1"/>
-		<transponder centre_frequency="662500000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="683500000" bandwidth="1"/>
-		<transponder centre_frequency="697625000" bandwidth="1"/>
+	<terrestrial name="Cairns (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Cairns, Cairns East, Cairns IBL, Cairns North, Gordonvale, Wangetti
+		Transmitter Sites:
+			Green Hill, Mt Bellenden Ker, Mt Yarrabah, Palm Cove, Portsmith, Saddle Mountain
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ6 @ Mt Bellenden Ker, Portsmith -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Mt Bellenden Ker -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- ABC8 @ Mt Bellenden Ker -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- STQ11 @ Mt Bellenden Ker -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ12 @ Mt Bellenden Ker -->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- SBS34 @ Saddle Mountain -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- ABC35 @ Saddle Mountain -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- STQ36 @ Saddle Mountain -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ37 @ Saddle Mountain -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ38 @ Saddle Mountain -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ41 @ Mt Yarrabah -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- ABC42 @ Mt Yarrabah, Palm Cove -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- STQ43 @ Mt Yarrabah -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ44 @ Mt Yarrabah -->
+		<transponder centre_frequency="648500000" bandwidth="1" constellation="3" system="0" /><!-- SBS45 @ Mt Yarrabah -->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ46 @ Green Hill -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- SBS47 @ Green Hill -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- ABC48 @ Green Hill -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ49 @ Green Hill -->
+		<transponder centre_frequency="683500000" bandwidth="1" constellation="3" system="0" /><!-- STQ50 @ Green Hill -->
 	</terrestrial>
-	<terrestrial name="Canberra (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191500000" bandwidth="1"/>
-		<transponder centre_frequency="205625000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="543500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
-		<transponder centre_frequency="648500000" bandwidth="1"/>
-		<transponder centre_frequency="732500000" bandwidth="1"/>
-		<transponder centre_frequency="746500000" bandwidth="1"/>
-		<transponder centre_frequency="767500000" bandwidth="1"/>
-		<transponder centre_frequency="788500000" bandwidth="1"/>
-		<transponder centre_frequency="809500000" bandwidth="1"/>
+	<terrestrial name="Canberra (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Canberra, Conder, Tuggeranong, Weston Creek/Woden
+		Transmitter Sites:
+			Banks, Black Mountain, Theodore, Torrens, Tuggeranong Hill
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- CTC6 @ Black Mountain -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Black Mountain -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- ABC8 @ Black Mountain -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- WIN11 @ Black Mountain -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- CBN12 @ Black Mountain -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- SBS35 @ Banks -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- ABC36 @ Banks -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- CBN37 @ Banks -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- WIN38 @ Banks -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- CTC39 @ Banks -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- ABC41 @ Theodore, Torrens -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- CBN42 @ Theodore -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- WIN43 @ Tuggeranong Hill -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- CTC44 @ Theodore -->
+		<transponder centre_frequency="648500000" bandwidth="1" constellation="3" system="0" /><!-- SBS45 @ Theodore, Torrens -->
 	</terrestrial>
-	<terrestrial name="Darwin (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="536625000" bandwidth="1"/>
-		<transponder centre_frequency="543625000" bandwidth="1"/>
-		<transponder centre_frequency="550500000" bandwidth="1"/>
-		<transponder centre_frequency="557500000" bandwidth="1"/>
-		<transponder centre_frequency="564625000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
+	<terrestrial name="Darwin (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Darwin
+		Transmitter Sites:
+			Shoal Bay
+		-->
+		<transponder centre_frequency="536625000" bandwidth="1" constellation="3" system="0" /><!-- SBS29 @ Shoal Bay -->
+		<transponder centre_frequency="543625000" bandwidth="1" constellation="3" system="0" /><!-- ABC30 @ Shoal Bay -->
+		<transponder centre_frequency="550625000" bandwidth="1" constellation="3" system="0" /><!-- NTD31 @ Shoal Bay -->
+		<transponder centre_frequency="557625000" bandwidth="1" constellation="3" system="0" /><!-- TND32 @ Shoal Bay -->
+		<transponder centre_frequency="564625000" bandwidth="1" constellation="3" system="0" /><!-- DTD33 @ Shoal Bay -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- HPO35 @ Shoal Bay -->
 	</terrestrial>
-	<terrestrial name="Geelong (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="655500000" bandwidth="1"/>
-		<transponder centre_frequency="662500000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="683500000" bandwidth="1"/>
-		<transponder centre_frequency="704500000" bandwidth="1"/>
-		<transponder centre_frequency="781500000" bandwidth="1"/>
-		<transponder centre_frequency="795500000" bandwidth="1"/>
-		<transponder centre_frequency="802500000" bandwidth="1"/>
-		<transponder centre_frequency="816500000" bandwidth="1"/>
+	<terrestrial name="Geelong (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Geelong
+		Transmitter Sites:
+			Highton
+		-->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- HSV46 @ Highton -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- GTV47 @ Highton -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- ATV48 @ Highton -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- ABC49 @ Highton -->
+		<transponder centre_frequency="683500000" bandwidth="1" constellation="3" system="0" /><!-- SBS50 @ Highton -->
 	</terrestrial>
-	<terrestrial name="Gold Coast (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="585625000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
-		<transponder centre_frequency="613500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634625000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
-		<transponder centre_frequency="648500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="683500000" bandwidth="1"/>
-		<transponder centre_frequency="704625000" bandwidth="1"/>
-		<transponder centre_frequency="725625000" bandwidth="1"/>
-		<transponder centre_frequency="746625000" bandwidth="1"/>
-		<transponder centre_frequency="767625000" bandwidth="1"/>
-		<transponder centre_frequency="788625000" bandwidth="1"/>
-		<transponder centre_frequency="809625000" bandwidth="1"/>
+	<terrestrial name="Gold Coast (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served
+			Currumbin, Gold Coast
+		Transmitter Sites:
+			Currumbin, Mount Tamborine
+		-->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- BTQ34 @ Currumbin -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- QTQ35 @ Currumbin -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- TVQ36 @ Currumbin -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- NEN37 @ Currumbin -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- NBN38 @ Currumbin -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- NRN39 @ Currumbin -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- SBS40 @ Mount Tamborine -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- ABC41 @ Mount Tamborine -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- BTQ42 @ Mount Tamborine -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- TVQ44 @ Mount Tamborine -->
+		<transponder centre_frequency="648500000" bandwidth="1" constellation="3" system="0" /><!-- QTQ45 @ Mount Tamborine -->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- NEN46 @ Mount Tamborine -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- NBN47 @ Mount Tamborine -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- NRN48 @ Mount Tamborine -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- SBS49 @ Currumbin -->
+		<transponder centre_frequency="683500000" bandwidth="1" constellation="3" system="0" /><!-- ABC50 @ Currumbin -->
 	</terrestrial>
-	<terrestrial name="Hobart (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184625000" bandwidth="1"/>
-		<transponder centre_frequency="191500000" bandwidth="1"/>
-		<transponder centre_frequency="205500000" bandwidth="1"/>
-		<transponder centre_frequency="212500000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
-		<transponder centre_frequency="613500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627625000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="648625000" bandwidth="1"/>
-		<transponder centre_frequency="655500000" bandwidth="1"/>
-		<transponder centre_frequency="662500000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="690500000" bandwidth="1"/>
-		<transponder centre_frequency="725375000" bandwidth="1"/>
-		<transponder centre_frequency="767500000" bandwidth="1"/>
-		<transponder centre_frequency="781625000" bandwidth="1"/>
-		<transponder centre_frequency="788500000" bandwidth="1"/>
-		<transponder centre_frequency="795500000" bandwidth="1"/>
+	<terrestrial name="Hobart (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Acton Road, Hobart, Hobart NE Suburbs, Taroona
+		Transmitter Sites:
+			Acton, Mt Wellington, Opossum Bay, Risdon
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- SBS6 @ Mt Wellington -->
+		<transponder centre_frequency="184625000" bandwidth="1" constellation="3" system="0" /><!-- TVT7 @ Mt Wellington -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- ABC8 @ Mt Wellington -->
+		<transponder centre_frequency="212500000" bandwidth="1" constellation="3" system="0" /><!-- TNT10 @ Mt Wellington -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- TDT11 @ Mt Wellington -->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- TDT34 @ Acton -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- SBS35 @ Acton -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- ABC36 @ Acton -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- TVT37 @ Acton -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- TNT38 @ Acton -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- TNT40 @ Opossum Bay -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- TDT41 @ Opossum Bay -->
+		<transponder centre_frequency="627625000" bandwidth="1" constellation="3" system="0" /><!-- SBS42 @ Opossum Bay -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- TVT43 @ Opossum Bay -->
+		<transponder centre_frequency="648625000" bandwidth="1" constellation="3" system="0" /><!-- ABC45 @ Opossum Bay -->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- SBS46 @ Risdon -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- ABC47 @ Risdon -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- TNT48 @ Risdon -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- TVT49 @ Risdon -->
+		<transponder centre_frequency="690500000" bandwidth="1" constellation="3" system="0" /><!-- TDT51 @ Risdon -->
 	</terrestrial>
-	<terrestrial name="Melbourne (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191625000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="557625000" bandwidth="1"/>
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="613500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
-		<transponder centre_frequency="648500000" bandwidth="1"/>
-		<transponder centre_frequency="662500000" bandwidth="1"/>
-		<transponder centre_frequency="683500000" bandwidth="1"/>
-		<transponder centre_frequency="690500000" bandwidth="1"/>
-		<transponder centre_frequency="711500000" bandwidth="1"/>
-		<transponder centre_frequency="732500000" bandwidth="1"/>
-		<transponder centre_frequency="753500000" bandwidth="1"/>
-		<transponder centre_frequency="774500000" bandwidth="1"/>
-		<transponder centre_frequency="795500000" bandwidth="1"/>
+	<terrestrial name="Melbourne (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Ferntree Gully, Marysville, Melbourne, Melbourne Inner Suburbs, Safety Beach, Selby, South Yarra, Upwey, Warburton (Vic)
+		Transmitter Sites:
+			Arthurs Seat, Ferntree Gully, Melbourne, Mount Dandenong, Mount Gordon, Mount Victoria, Mt Dandenong, Selby, South Yarra, Upwey
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- HSV6 @ Mt Dandenong -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Mount Dandenong -->
+		<transponder centre_frequency="191625000" bandwidth="1" constellation="3" system="0" /><!-- GTV8 @ Mt Dandenong -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- ATV11 @ Mount Dandenong -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Mount Dandenong -->
+		<transponder centre_frequency="557625000" bandwidth="1" constellation="3" system="0" /><!-- MGV32 @ Mount Dandenong -->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- SBS34 @ Mount Gordon, Mount Victoria, Selby, Upwey -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- ABC35 @ Mount Gordon, Mount Victoria, Selby, Upwey -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- HSV36 @ Mount Gordon, Mount Victoria, Selby, Upwey -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- GTV37 @ Mount Gordon, Mount Victoria, Selby, Upwey -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- ATV38 @ Mount Gordon, Mount Victoria, Selby, Upwey -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- SBS40 @ Arthurs Seat, Ferntree Gully, Melbourne, South Yarra -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- HSV41 @ Arthurs Seat, Ferntree Gully, Melbourne, South Yarra -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- MGV42 @ South Yarra -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- ABC43 @ Arthurs Seat, Ferntree Gully, Melbourne, South Yarra -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- GTV44 @ Arthurs Seat, Ferntree Gully, Melbourne, South Yarra -->
+		<transponder centre_frequency="648500000" bandwidth="1" constellation="3" system="0" /><!-- ATV45 @ Arthurs Seat, Ferntree Gully, Melbourne, South Yarra -->
 	</terrestrial>
-	<terrestrial name="Newcastle (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
-		<transponder centre_frequency="690500000" bandwidth="1"/>
-		<transponder centre_frequency="704500000" bandwidth="1"/>
+	<terrestrial name="Newcastle (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Kotara, Merewether, Newcastle
+		Transmitter Sites:
+			Charlestown, Cooks Hill, West Wallsend
+		-->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- NEN35 @ Charlestown, Cooks Hill, West Wallsend -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- NBN36 @ Charlestown, Cooks Hill, West Wallsend -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- ABC37 @ Charlestown, Cooks Hill, West Wallsend -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- SBS38 @ Charlestown, Cooks Hill, West Wallsend -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- NRN39 @ Charlestown, Cooks Hill, West Wallsend -->
 	</terrestrial>
-	<terrestrial name="Sunshine Coast (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585625000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
-		<transponder centre_frequency="613500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
-		<transponder centre_frequency="655500000" bandwidth="1"/>
-		<transponder centre_frequency="662625000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="683500000" bandwidth="1"/>
-		<transponder centre_frequency="704625000" bandwidth="1"/>
-		<transponder centre_frequency="725500000" bandwidth="1"/>
-		<transponder centre_frequency="746500000" bandwidth="1"/>
-		<transponder centre_frequency="767625000" bandwidth="1"/>
-		<transponder centre_frequency="788625000" bandwidth="1"/>
-		<transponder centre_frequency="809500000" bandwidth="1"/>
+	<terrestrial name="Perth (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Perth, Roleystone
+		Transmitter Sites:
+			Bedfordale, Bickley, Carmel
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- TVW6 @ Bickley -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Carmel -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- STW8 @ Bickley -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- NEW11 @ Carmel -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Carmel -->
+		<transponder centre_frequency="557500000" bandwidth="1" constellation="3" system="0" /><!-- CTW32 @ Carmel -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- SBS40 @ Bedfordale -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- ABC41 @ Bedfordale -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- TVW42 @ Bedfordale -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- STW43 @ Bedfordale -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- NEW44 @ Bedfordale -->
 	</terrestrial>
-	<terrestrial name="Sydney (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191625000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="529500000" bandwidth="1"/>
-		<transponder centre_frequency="536625000" bandwidth="1"/>
-		<transponder centre_frequency="543625000" bandwidth="1"/>
-		<transponder centre_frequency="550500000" bandwidth="1"/>
-		<transponder centre_frequency="557500000" bandwidth="1"/>
-		<transponder centre_frequency="564500000" bandwidth="1"/>
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="648500000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
+	<terrestrial name="Sunshine Coast (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Nambour, Noosa/Tewantin, Sunshine Coast North, Sunshine Coast South
+		Transmitter Sites:
+			Bald Knob, Dulong, Tewantin
+		-->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- BTQ34 @ Bald Knob -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- SBS35 @ Bald Knob -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- QTQ37 @ Bald Knob -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- TVQ38 @ Bald Knob -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- ABC39 @ Bald Knob -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- SBS40 @ Dulong, Tewantin -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- ABC41 @ Dulong, Tewantin -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- STQ42 @ Dulong, Tewantin -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ43 @ Dulong, Tewantin -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ44 @ Dulong, Tewantin -->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ46 @ Bald Knob -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ47 @ Bald Knob -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- STQ48 @ Bald Knob -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- ABC49 @ Bald Knob -->
+		<transponder centre_frequency="683500000" bandwidth="1" constellation="3" system="0" /><!-- SBS50 @ Bald Knob -->
 	</terrestrial>
-	<terrestrial name="Toowoomba (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="655500000" bandwidth="1"/>
-		<transponder centre_frequency="662500000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="683500000" bandwidth="1"/>
-		<transponder centre_frequency="718500000" bandwidth="1"/>
-		<transponder centre_frequency="739500000" bandwidth="1"/>
-		<transponder centre_frequency="760500000" bandwidth="1"/>
-		<transponder centre_frequency="781500000" bandwidth="1"/>
-		<transponder centre_frequency="802500000" bandwidth="1"/>
+	<terrestrial name="Sydney (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Kings Cross, Manly/Mosman, Sydney
+		Transmitter Sites:
+			Artarmon, Gore Hill, Kings Cross, Manly, Willoughby
+		-->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- ATN6 @ Willoughby -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Gore Hill -->
+		<transponder centre_frequency="191625000" bandwidth="1" constellation="3" system="0" /><!-- TCN8 @ Willoughby -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- TEN11 @ Artarmon -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Artarmon -->
+		<transponder centre_frequency="529500000" bandwidth="1" constellation="3" system="0" /><!-- ATN28 @ Kings Cross, Manly -->
+		<transponder centre_frequency="543500000" bandwidth="1" constellation="3" system="0" /><!-- ABC30 @ Kings Cross, Manly -->
+		<transponder centre_frequency="550500000" bandwidth="1" constellation="3" system="0" /><!-- TEN31 @ Kings Cross, Manly -->
+		<transponder centre_frequency="557500000" bandwidth="1" constellation="3" system="0" /><!-- SBS32 @ Kings Cross, Manly -->
+		<transponder centre_frequency="564500000" bandwidth="1" constellation="3" system="0" /><!-- TCN33 @ Kings Cross, Manly -->
 	</terrestrial>
-	<terrestrial name="Townsville (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="550500000" bandwidth="1"/>
-		<transponder centre_frequency="571500000" bandwidth="1"/>
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="620625000" bandwidth="1"/>
-		<transponder centre_frequency="655500000" bandwidth="1"/>
-		<transponder centre_frequency="662500000" bandwidth="1"/>
-		<transponder centre_frequency="669500000" bandwidth="1"/>
-		<transponder centre_frequency="676500000" bandwidth="1"/>
-		<transponder centre_frequency="690500000" bandwidth="1"/>
-		<transponder centre_frequency="711500000" bandwidth="1"/>
-		<transponder centre_frequency="732500000" bandwidth="1"/>
-		<transponder centre_frequency="753500000" bandwidth="1"/>
-		<transponder centre_frequency="774500000" bandwidth="1"/>
+	<terrestrial name="Toowoomba (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Toowoomba
+		Transmitter Sites:
+			Toowoomba
+		-->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- SBS46 @ Toowoomba -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- ABC47 @ Toowoomba -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- STQ48 @ Toowoomba -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ49 @ Toowoomba -->
+		<transponder centre_frequency="683500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ50 @ Toowoomba -->
 	</terrestrial>
-	<terrestrial name="Wollongong (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="578500000" bandwidth="1"/>
-		<transponder centre_frequency="585500000" bandwidth="1"/>
-		<transponder centre_frequency="592500000" bandwidth="1"/>
-		<transponder centre_frequency="599500000" bandwidth="1"/>
-		<transponder centre_frequency="606500000" bandwidth="1"/>
-		<transponder centre_frequency="613500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
-		<transponder centre_frequency="690500000" bandwidth="1"/>
-		<transponder centre_frequency="711625000" bandwidth="1"/>
+	<terrestrial name="Townsville (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Stuart, Townsville, Townsville North
+		Transmitter Sites:
+			Castle Hill, Mount Stuart, Stuart
+		-->
+		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- ABC34 @ Mount Stuart -->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ35 @ Mount Stuart -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ36 @ Mount Stuart -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- SBS37 @ Mount Stuart -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- STQ38 @ Mount Stuart -->
+		<transponder centre_frequency="655500000" bandwidth="1" constellation="3" system="0" /><!-- ABC46 @ Castle Hill, Stuart -->
+		<transponder centre_frequency="662500000" bandwidth="1" constellation="3" system="0" /><!-- STQ47 @ Castle Hill, Stuart -->
+		<transponder centre_frequency="669500000" bandwidth="1" constellation="3" system="0" /><!-- TNQ48 @ Castle Hill, Stuart -->
+		<transponder centre_frequency="676500000" bandwidth="1" constellation="3" system="0" /><!-- RTQ49 @ Castle Hill, Stuart -->
+		<transponder centre_frequency="690500000" bandwidth="1" constellation="3" system="0" /><!-- SBS51 @ Castle Hill, Stuart -->
 	</terrestrial>
-	<terrestrial name="Perth (Australia DVB-T/T2)" flags="5" countrycode="AUS">
-		<transponder centre_frequency="177500000" bandwidth="1"/>
-		<transponder centre_frequency="184500000" bandwidth="1"/>
-		<transponder centre_frequency="191500000" bandwidth="1"/>
-		<transponder centre_frequency="219500000" bandwidth="1"/>
-		<transponder centre_frequency="226500000" bandwidth="1"/>
-		<transponder centre_frequency="557500000" bandwidth="1"/>
-		<transponder centre_frequency="613500000" bandwidth="1"/>
-		<transponder centre_frequency="620500000" bandwidth="1"/>
-		<transponder centre_frequency="627500000" bandwidth="1"/>
-		<transponder centre_frequency="634500000" bandwidth="1"/>
-		<transponder centre_frequency="641500000" bandwidth="1"/>
+	<terrestrial name="Wollongong (Australia DVB-T)" flags="5" countrycode="AUS">
+		<!--
+		Areas Served:
+			Illawarra, Wollongong
+		Transmitter Sites:
+			Brokers Nose, Knights Hill
+		-->
+		<transponder centre_frequency="578500000" bandwidth="1" constellation="3" system="0" /><!-- ABC35 @ Knights Hill -->
+		<transponder centre_frequency="585500000" bandwidth="1" constellation="3" system="0" /><!-- WIN36 @ Knights Hill -->
+		<transponder centre_frequency="592500000" bandwidth="1" constellation="3" system="0" /><!-- CTC37 @ Knights Hill -->
+		<transponder centre_frequency="599500000" bandwidth="1" constellation="3" system="0" /><!-- CBN38 @ Knights Hill -->
+		<transponder centre_frequency="606500000" bandwidth="1" constellation="3" system="0" /><!-- SBS39 @ Knights Hill -->
+		<transponder centre_frequency="613500000" bandwidth="1" constellation="3" system="0" /><!-- WIN40 @ Brokers Nose -->
+		<transponder centre_frequency="620500000" bandwidth="1" constellation="3" system="0" /><!-- ABC41 @ Brokers Nose -->
+		<transponder centre_frequency="627500000" bandwidth="1" constellation="3" system="0" /><!-- CBN42 @ Brokers Nose -->
+		<transponder centre_frequency="634500000" bandwidth="1" constellation="3" system="0" /><!-- CTC43 @ Brokers Nose -->
+		<transponder centre_frequency="641500000" bandwidth="1" constellation="3" system="0" /><!-- SBS44 @ Brokers Nose -->
 	</terrestrial>
 	<terrestrial name="Praha (Europe DVB-T/T2)" flags="5" countrycode="CZE">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
@@ -2556,6 +2573,37 @@
 		<transponder centre_frequency="490000000" bandwidth="0" system="0" />
 		<transponder centre_frequency="682000000" bandwidth="0" system="0" />
 		<transponder centre_frequency="530000000" bandwidth="0" system="0" />
+	</terrestrial>
+	<terrestrial name="New Zealand, all regions (Europe DVB-T/T2)" countrycode="NZL">
+		<!--
+		Transmitter Sites:
+			All New Zealand Digital TV channels
+		-->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" /><!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" /><!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" /><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" /><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" /><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" /><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" /><!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" /><!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" /><!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" /><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" /><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" /><!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" /><!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" /><!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" /><!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" /><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" /><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /><!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" /><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" /><!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" /><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" /><!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" /><!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" /><!-- Ch 49 -->
 	</terrestrial>
 	<terrestrial name="Polska (Europe DVB-T/T2)" flags="5" countrycode="POL">
 		<transponder centre_frequency="470000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="0" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="0" />
