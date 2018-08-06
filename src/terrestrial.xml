@@ -1,72 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Countries sorted by three letter country code (ISO 3166-1).
-    Regions sorted alpabetically.
-    Transponders sorted by frequency.
+	Countries sorted by three letter country code (ISO 3166-1).
+	Regions sorted alpabetically.
+	Transponders sorted by frequency.
 
-    Countrycode use Alpha-3 code
-	http://www.nationsonline.org/oneworld/country_code_list.htm
-	https://en.wikipedia.org/wiki/ISO_3166-1
+	Countrycode use Alpha-3 code
+		http://www.nationsonline.org/oneworld/country_code_list.htm
+		https://en.wikipedia.org/wiki/ISO_3166-1
 
-    system:
-	0 = DVB-T
-	1 = DVB-T2
+	System:
+		0 = DVB-T
+		1 = DVB-T2
 
-	bandwidth:
-    0 = 8 MHz,
-    1 = 7 MHz,
-    2 = 6 MHz,
-    3 = Auto (unsupported, default)
+	Bandwidth:
+		0 = 8 MHz,
+		1 = 7 MHz,
+		2 = 6 MHz,
+		3 = Auto (unsupported, default),
+		4 = 5 MHz,
+		5 = 1.712 MHz,
+		6 = 10 MHz
 
-    constellation:
-    0 = QPSK,
-    1 = 16-QAM (default),
-    2 = 64-QAM,
-    3 = Auto
+	Constellation:
+		0 = QPSK,
+		1 = 16-QAM (default),
+		2 = 64-QAM,
+		3 = Auto,
+		4 = 256-QAM
 
-    code_rate_{lp,hp}:
-    0 = 1/2,
-    1 = 2/3,
-    2 = 3/4,
-    3 = 5/6,
-    4 = 7/8,
-    5 = Auto (default),
-    6 = None
+	Code_rate_{lp,hp}:
+		0 = 1/2,
+		1 = 2/3,
+		2 = 3/4,
+		3 = 5/6,
+		4 = 7/8,
+		5 = Auto (default),
+		6 = None (OE-Alliance / OpenViX),
+		6 = 6/4 (OpenPLi),
+		7 = 8/9,
+		8 = 3/5,
+		9 = 4/5
 
-    guard_interval:
-    0 = 1/32,
-    1 = 1/16,
-    2 = 1/8,
-    3 = 1/4,
-    4 = Auto (default)
+	Guard_interval:
+		0 = 1/32,
+		1 = 1/16,
+		2 = 1/8,
+		3 = 1/4,
+		4 = Auto (default)(OE-Alliance / OpenViX),
+		4 = 7/8 (OpenPLi),
+		5 = Auto (default),
+		6 = 6/4,
+		7 = 8/9,
+		8 = 3/5,
+		9 = 4/5
 
-    transmission_mode:
-    0 = 2K,
-    1 = 8K,
-    2 = Auto (default)
+	Transmission_mode:
+		0 = 2K,
+		1 = 8K,
+		2 = Auto (default),
+		3 = 4K,
+		4 = 1K,
+		5 = 16K,
+		6 = 32K
 
-    hierarchy_information:
-    0 = None,
-    1 = 1,
-    2 = 2,
-    3 = 4,
-    4 = Auto (default)
+	Hierarchy_information:
+		0 = None,
+		1 = 1,
+		2 = 2,
+		3 = 4,
+		4 = Auto (default)
 
-    inversion:
-    0 = Off,
-    1 = On,
-    2 = Auto (default)
+	Inversion:
+		0 = Off,
+		1 = On,
+		2 = Auto (default)
 
-	flags:
-    1: Network Scan
-    2: use BAT
-    4: use ONIT
-    8: skip NITs of known networks
-    and combinations of this.
+	Flags:
+		1: Network Scan
+		2: Use BAT
+		4: Use ONIT
+		8: Skip NITs of known networks
+    		This is a bitmap and combinations can be used.
 
-    Please report missing frequencies and pointers to regional standards to
-	https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/terrestrial.xml
-	https://github.com/OpenPLi/OpenPLi-1/tree/master/cdk/cdk/root/share/tuxbox
+	Please report missing frequencies and pointers to regional standards to
+		https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/terrestrial.xml
+		https://github.com/OpenPLi/tuxbox-xml/tree/master/xml
 -->
 
 <locations>
