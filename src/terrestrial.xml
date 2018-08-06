@@ -185,6 +185,21 @@
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /><!-- Ch 45 -->
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /><!-- Ch 57 -->
 	</terrestrial>
+	<!--
+		Australia data:
+		Extracted from ACMA databases: 7-June-2018
+		ACMA RTV Introduction file:    Intro-BroadcastTransmitterExcel-2018-06.csv
+		ACMA RTV DTV stations file:    DTV-BroadcastTransmitterExcel-2018-06.csv
+		Created:                       2018-06-15 12:54
+
+		Sorted:                        Alphabetically
+		Full Scan:                     First
+		Retune frequencies:            Last
+		125kHz frequency offsets:      Not Stripped
+
+		Based on Australian Communications and Media Authority data and Australian Communications Department data.
+		Data manipulated and organised by Prl.
+	-->
 	<terrestrial name="Australia, all regions (DVB-T)" flags="5" countrycode="AUS">
 		<!--
 		Transmitter Sites:
