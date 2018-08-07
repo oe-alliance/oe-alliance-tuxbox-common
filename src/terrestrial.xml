@@ -1195,11 +1195,11 @@
 	</terrestrial>
 	<terrestrial name="Latvia - Liepāja (Europe DVB-T)" flags="0" countrycode="LVA">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0"/>
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0"/>
 		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0"/>
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0"/>
-		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="0"/>
-		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" system="0"/>
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0"/>
 	</terrestrial>
 	<terrestrial name="Latvia - Rīga bezmaksas (Europe DVB-T)" flags="0" countrycode="LVA">
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0"/>
