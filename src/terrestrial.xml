@@ -205,10 +205,10 @@
 	</terrestrial>
 	<!--
 		Australia data:
-		Extracted from ACMA databases: 7-June-2018
-		ACMA RTV Introduction file:    Intro-BroadcastTransmitterExcel-2018-06.csv
-		ACMA RTV DTV stations file:    DTV-BroadcastTransmitterExcel-2018-06.csv
-		Created:                       2018-06-15 12:54
+		Extracted from ACMA databases: 3-August-2018
+		ACMA RTV Introduction file:    Intro-BroadcastTransmitterExcel-2018-08.csv
+		ACMA RTV DTV stations file:    DTV-BroadcastTransmitterExcel-2018-08.csv
+		Created:                       2018-08-07 12:30
 
 		Sorted:                        Alphabetically
 		Full Scan:                     First
@@ -428,7 +428,7 @@
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- HSV6 @ Mt Dandenong -->
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Mount Dandenong -->
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="3" system="0" /><!-- GTV8 @ Mt Dandenong -->
-		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- ATV11 @ Mount Dandenong -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- ATV11 @ Mt Dandenong -->
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Mount Dandenong -->
 		<transponder centre_frequency="557625000" bandwidth="1" constellation="3" system="0" /><!-- MGV32 @ Mount Dandenong -->
 		<transponder centre_frequency="571500000" bandwidth="1" constellation="3" system="0" /><!-- SBS34 @ Mount Gordon, Mount Victoria, Selby, Upwey -->
@@ -464,8 +464,8 @@
 			Bedfordale, Bickley, Carmel
 		-->
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- TVW6 @ Bickley -->
-		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Carmel -->
-		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- STW8 @ Bickley -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Bickley -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" system="0" /><!-- STW8 @ Carmel -->
 		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- NEW11 @ Carmel -->
 		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Carmel -->
 		<transponder centre_frequency="557500000" bandwidth="1" constellation="3" system="0" /><!-- CTW32 @ Carmel -->
@@ -505,11 +505,11 @@
 		Transmitter Sites:
 			Artarmon, Gore Hill, Kings Cross, Manly, Willoughby
 		-->
-		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- ATN6 @ Willoughby -->
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="0" /><!-- ATN6 @ Artarmon -->
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" system="0" /><!-- SBS7 @ Gore Hill -->
 		<transponder centre_frequency="191625000" bandwidth="1" constellation="3" system="0" /><!-- TCN8 @ Willoughby -->
-		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- TEN11 @ Artarmon -->
-		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Artarmon -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" system="0" /><!-- TEN11 @ Willoughby -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" system="0" /><!-- ABC12 @ Gore Hill -->
 		<transponder centre_frequency="529500000" bandwidth="1" constellation="3" system="0" /><!-- ATN28 @ Kings Cross, Manly -->
 		<transponder centre_frequency="543500000" bandwidth="1" constellation="3" system="0" /><!-- ABC30 @ Kings Cross, Manly -->
 		<transponder centre_frequency="550500000" bandwidth="1" constellation="3" system="0" /><!-- TEN31 @ Kings Cross, Manly -->
