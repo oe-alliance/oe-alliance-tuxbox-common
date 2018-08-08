@@ -3,26 +3,26 @@
 	The scans are conducted in kHz. Please keep frequency to 6 digits
 	All the images divide the values so that only 6 digits remain.
 
-    Countries sorted by three letter country code (ISO 3166).
-    Regions sorted alpabetically.
+	Countries sorted by three letter country code (ISO 3166).
+	Regions sorted alphabetically.
 
-    Countrycode use Alpha-3 code
+	Countrycode use Alpha-3 code
 	http://www.nationsonline.org/oneworld/country_code_list.htm
 	https://en.wikipedia.org/wiki/ISO_3166-1
 
-    Transponders are sorted by frequency.
+	Transponders are sorted by frequency.
 
 	modulation:
 	3: QAM64
 	5: QAM256
 
 	flags:
-    Could someone describe why this is there
+	Could someone describe why this is there
 
 	satfeed:
 	Could someone describe why this is there
 
-    Please report missing frequencies and pointers to regional standards to
+	Please report missing frequencies and pointers to regional standards to
 	https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/cables.xml
 -->
 
@@ -9059,7 +9059,7 @@
 		<transponder frequency="466000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="762750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="626750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
-        <transponder frequency="570750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
+		<transponder frequency="570750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="586750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="594750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="610750" symbol_rate="6900000" fec_inner="0" modulation="5"/>
