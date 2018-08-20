@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Sunday, 19th of August 2018 23:05:10 [GMT]
+	File created on Monday, 20th of August 2018 00:01:56 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="0" position="-1771">
@@ -2604,7 +2604,7 @@
 		<transponder frequency="11693000" symbol_rate="1660000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="12537000" symbol_rate="2222000" polarization="1" fec_inner="3" system="0" modulation="1" />
 	</sat>
-	<sat name="23.5E Ku-band Astra 3B" flags="0" position="235">
+	<sat name="23.5E Astra 3B" flags="0" position="235">
 		<transponder frequency="11644000" symbol_rate="5500000" polarization="0" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11675000" symbol_rate="874000" polarization="1" fec_inner="3" system="1" modulation="2" />
 		<transponder frequency="11676000" symbol_rate="1410000" polarization="1" fec_inner="8" system="1" modulation="1" />
