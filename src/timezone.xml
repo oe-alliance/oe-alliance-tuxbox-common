@@ -19,11 +19,11 @@
 	<zone name="(GMT-04:00) Atlantic Time (Canada)" zone="Atlantic" />
 	<zone name="(GMT-04:00) Caracas, La Paz" zone="America/Caracas" />
 	<zone name="(GMT-04:00) Santiago" zone="America/Santiago" />
-	<zone name="(GMT-04:00) Brazil, West" zone="Brazil/West" />
+	<zone name="(GMT-04:00) Brazil, West" zone="America/Manaus" />
 	<zone name="(GMT-04:00) Brazil, Acre" zone="Brazil/Acre" />
 	<zone name="(GMT-03:30) Newfoundland" zone="Canada/Newfoundland" />
 	<zone name="(GMT-03:00) Brasilia" zone="Brazil/East" />
-	<zone name="(GMT-03:00) Buenos Aires, Georgetown" zone="Brazil/West" />
+	<zone name="(GMT-03:00) Buenos Aires, Georgetown" zone="ART" />
 	<zone name="(GMT-03:00) Greenland" zone="America/Danmarkshavn" />
 	<zone name="(GMT-02:00) Mid-Atlantic" zone="America/Noronha" />
 	<zone name="(GMT-02:00) Brazil, FNT" zone="Brazil/DeNoronha" />
