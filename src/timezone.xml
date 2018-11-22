@@ -41,7 +41,7 @@
 	<zone name="(GMT+02:00) Bucharest" zone="Europe/Bucharest" />
 	<zone name="(GMT+02:00) Harare, Pretoria" zone="Africa/Harare" />
 	<zone name="(GMT+02:00) Helsinki" zone="Europe/Helsinki" />
-	<zone name="(GMT+02:00) Kyiv" zone="Europe/Kyiv" />
+	<zone name="(GMT+02:00) Kyiv" zone="Europe/Kiev" />
 	<zone name="(GMT+02:00) Sofia" zone="Europe/Sofia" />
 	<zone name="(GMT+02:00) Riga" zone="Europe/Riga" />
 	<zone name="(GMT+02:00) Tallinn" zone="Europe/Tallinn" />
