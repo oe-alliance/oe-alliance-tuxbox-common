@@ -3760,7 +3760,17 @@
 		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/>
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/> 
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Andijan Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+	</terrestrial>
+	<terrestrial name="Bukhara Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
 	</terrestrial>
 	<terrestrial name="Djizak Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
@@ -3769,5 +3779,70 @@
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
+	</terrestrial>
+	<terrestrial name="Fergana Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+	</terrestrial>
+	<terrestrial name="Karakalpakstan Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
+    </terrestrial>
+	<terrestrial name="Kashkadarya Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
+	</terrestrial>
+	<terrestrial name="Khoresm Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+	</terrestrial>
+	<terrestrial name="Namangan Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3"/><!-- Ch 36 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
+	</terrestrial>
+	<terrestrial name="Navoi Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+	</terrestrial>
+	<terrestrial name="Samarkand Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
+	</terrestrial>
+	<terrestrial name="Surkhandarya Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
+	</terrestrial>
+	<terrestrial name="Syrdarya Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+	</terrestrial>
+	<terrestrial name="Tashkent Uzbekistan (Aziya DVB-T/T2)" flags="5" countrycode="UZB">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42 -->
 	</terrestrial>
 </locations>
