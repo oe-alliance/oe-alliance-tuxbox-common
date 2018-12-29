@@ -763,6 +763,19 @@
 		<transponder centre_frequency="586000000" bandwidth="0"/><!-- Ch 35 freenet TV 1 -->
 		<transponder centre_frequency="690000000" bandwidth="0"/><!-- Ch 48 freenet TV 3 -->
 	</terrestrial>
+	<terrestrial name="Muenster (Stadt)/NRW (Europe DVB-T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="498000000" bandwidth="0" /><!-- Ch 24 freenet TV 1 -->
+		<transponder centre_frequency="562000000" bandwidth="0" /><!-- Ch 32 ARD -->
+		<transponder centre_frequency="578000000" bandwidth="0" /><!-- Ch 34 ARD/Dritte -->
+		<transponder centre_frequency="618000000" bandwidth="0" /><!-- Ch 39 freenet TV 3 -->
+		<transponder centre_frequency="666000000" bandwidth="0" /><!-- Ch 45 ZDF -->
+		<transponder centre_frequency="754000000" bandwidth="0" /><!-- Ch 56 freenet TV 2 -->
+	</terrestrial>
+	<terrestrial name="Muenster-Baumberge/NRW (Europe DVB-T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="562000000" bandwidth="0" /><!-- Ch 32 ARD -->
+		<transponder centre_frequency="578000000" bandwidth="0" /><!-- Ch 34 ARD/Dritte -->
+		<transponder centre_frequency="666000000" bandwidth="0" /><!-- Ch 45 ZDF -->
+	</terrestrial>
 	<terrestrial name="Nuernberg (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="578000000" bandwidth="0"/>
 		<transponder centre_frequency="626000000" bandwidth="0"/>
