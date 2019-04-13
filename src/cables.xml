@@ -6559,6 +6559,7 @@
 		<transponder frequency="674750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="682750" symbol_rate="6952000" fec_inner="3" modulation="3"/>
 		<transponder frequency="682750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
+		<transponder frequency="690750" symbol_rate="6952000" fec_inner="3" modulation="3"/>
 		<transponder frequency="690750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="698750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
 		<transponder frequency="706750" symbol_rate="6952000" fec_inner="3" modulation="5"/>
