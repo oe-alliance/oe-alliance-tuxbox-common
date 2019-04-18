@@ -2577,6 +2577,7 @@
 	</terrestrial>
 	<terrestrial name="Groningen (Europe DVB-T/T2)" flags="5" countrycode="NLD">
 		<transponder centre_frequency="306000000" bandwidth="0" system="0"/>
+		<transponder centre_frequency="626000000" bandwidth="0" system="0"/>
 		<transponder centre_frequency="674000000" bandwidth="0" system="0"/>
 		<transponder centre_frequency="546000000" bandwidth="0" system="0"/>
 		<transponder centre_frequency="738000000" bandwidth="0" system="0"/>
