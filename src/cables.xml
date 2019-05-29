@@ -401,7 +401,7 @@
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="0" modulation="5"/>
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 	</cable>
-	<cable name="AiNet Telekommunikations-Netzwerk" satfeed="true" flags="9">
+	<cable name="AiNet Telekommunikations-Netzwerk" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="386000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
@@ -453,7 +453,7 @@
 		<transponder frequency="634000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="634000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	<cable name="Antennentechnik Weser-Ems" satfeed="true" flags="9">
+	<cable name="Antennentechnik Weser-Ems" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
@@ -491,7 +491,7 @@
 		<transponder frequency="802000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
 		<transponder frequency="802000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 	</cable>
-	<cable name="Anvia" satfeed="true" flags="9">
+	<cable name="Anvia" satfeed="true" flags="9" countrycode="FIN">
 		<transponder frequency="418000" symbol_rate="6900000" fec_inner="0" modulation="2"/>
 		<transponder frequency="426000" symbol_rate="6900000" fec_inner="0" modulation="2"/>
 		<transponder frequency="434000" symbol_rate="6900000" fec_inner="0" modulation="2"/>
@@ -537,7 +537,7 @@
 		<transponder frequency="458000" symbol_rate="6900000" fec_inner="0" modulation="3"/>
 		<transponder frequency="177500" symbol_rate="6900000" fec_inner="0" modulation="2"/>
 	</cable>
-	<cable name="Bosch Hamburg" satfeed="true" flags="9">
+	<cable name="Bosch Hamburg" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="378000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
 		<transponder frequency="386000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
@@ -3633,7 +3633,7 @@
 		<transponder frequency="842000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="842000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	<cable name="HiWay" satfeed="true" flags="9">
+	<cable name="HiWay" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="306000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="314000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="322000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
@@ -3655,7 +3655,7 @@
 		<transponder frequency="746000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 		<transponder frequency="754000" symbol_rate="6875000" fec_inner="9" modulation="6"/>
 	</cable>
-	<cable name="InnLine" satfeed="true" flags="9">
+	<cable name="InnLine" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="354000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="362000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="370000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
@@ -6221,6 +6221,7 @@
 		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="450000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="610000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 	</cable>
 	<cable name="UPC Kabel Wien" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="306000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
