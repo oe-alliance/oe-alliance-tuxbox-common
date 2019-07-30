@@ -6261,7 +6261,8 @@
 		<transponder frequency="594000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
 	<cable name="Unitymedia" satfeed="true" flags="9" countrycode="DEU">
-<!-- lastupdated mike99 20171015 -->
+		<!-- lastupdated cocker-cc 20181023 -->
+		<!-- "https://www.unitymedia.de/content/dam/dcomm-unitymedia-de/hilfe&#x2D&#x2D&#x2Dservice/doc/Unitymedia_Frequenzliste_16.10.2018.pdf" -->
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
