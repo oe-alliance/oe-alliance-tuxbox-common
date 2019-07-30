@@ -3698,7 +3698,7 @@
 		<transponder frequency="610000000" symbol_rate="6890000" fec_inner="5" modulation="5"/>
 		<transponder frequency="634000000" symbol_rate="6890000" fec_inner="5" modulation="5"/>
 		-->
-	</cable>	
+	</cable>
 	<cable name="InnLine" satfeed="true" flags="9" countrycode="AUT">
 		<transponder frequency="354000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="362000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
