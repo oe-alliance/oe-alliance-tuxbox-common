@@ -637,13 +637,15 @@
 		<transponder centre_frequency="706000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH50 (T2)-->
 	</terrestrial>
 	<terrestrial name="Berlin/Brandenburg (Europe DVB-T2)" flags="5" countrycode="DEU">
-		<transponder centre_frequency="506000000" bandwidth="0"/>
-		<transponder centre_frequency="522000000" bandwidth="0"/>
-		<transponder centre_frequency="554000000" bandwidth="0"/>
-		<transponder centre_frequency="570000000" bandwidth="0"/>
-		<transponder centre_frequency="626000000" bandwidth="0"/>
-		<transponder centre_frequency="642000000" bandwidth="0"/>
-		<transponder centre_frequency="682000000" bandwidth="0"/>
+		<transponder centre_frequency="490000000" bandwidth="0"/><!-- Ch 23 RBB1 Cottbus -->
+		<transponder centre_frequency="506000000" bandwidth="0"/><!-- Ch 25 RBB1 Berlin Frankfurt/Oder -->
+		<transponder centre_frequency="522000000" bandwidth="0"/><!-- Ch 27 freenet TV 1 Berlin -->
+		<transponder centre_frequency="554000000" bandwidth="0"/><!-- Ch 31 freenet TV 2 Berlin -->
+		<transponder centre_frequency="570000000" bandwidth="0"/><!-- Ch 33 ZDF Berlin Frankfurt/Oder -->
+		<transponder centre_frequency="594000000" bandwidth="0"/><!-- Ch 36 ZDF Cottbus -->
+		<transponder centre_frequency="626000000" bandwidth="0"/><!-- Ch 40 RBB2 Berlin Frankfort/Oder -->
+		<transponder centre_frequency="642000000" bandwidth="0"/><!-- Ch 42 freenet TV 3 Berlin -->
+		<transponder centre_frequency="658000000" bandwidth="0"/><!-- Ch 44 RBB2 Cottbus -->
 	</terrestrial>
 	<terrestrial name="Braunschweig Broitzem+Kraftwerk(Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="490000000" bandwidth="0"/>
