@@ -780,10 +780,10 @@
 	<terrestrial name="Nuernberg (Fernmeldeturm) (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="498000000" bandwidth="0"/><!-- Ch 24 freenet TV 2 -->
 		<transponder centre_frequency="506000000" bandwidth="0"/><!-- Ch 25 freenet TV 3 -->
-		<transponder centre_frequency="538000000" bandwidth="0"/><!-- Ch 29 ARD -->
+		<transponder centre_frequency="538000000" bandwidth="0"/><!-- Ch 29 ARD/Dritte -->
 		<transponder centre_frequency="578000000" bandwidth="0"/><!-- Ch 34 ZDF -->
 		<transponder centre_frequency="586000000" bandwidth="0"/><!-- Ch 35 freenet TV 1 -->
-		<transponder centre_frequency="642000000" bandwidth="0"/><!-- Ch 42 ARD/Dritte -->
+		<transponder centre_frequency="642000000" bandwidth="0"/><!-- Ch 42 ARD -->
 	</terrestrial>
 	<terrestrial name="Rhein-Main (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="482000000" bandwidth="0"/>
