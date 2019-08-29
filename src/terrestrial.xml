@@ -643,18 +643,17 @@
 		<transponder centre_frequency="554000000" bandwidth="0"/><!-- Ch 31 freenet TV 2 Berlin -->
 		<transponder centre_frequency="570000000" bandwidth="0"/><!-- Ch 33 ZDF Berlin Frankfurt/Oder -->
 		<transponder centre_frequency="594000000" bandwidth="0"/><!-- Ch 36 ZDF Cottbus -->
-		<transponder centre_frequency="626000000" bandwidth="0"/><!-- Ch 40 RBB2 Berlin Frankfort/Oder -->
+		<transponder centre_frequency="626000000" bandwidth="0"/><!-- Ch 40 RBB2 Berlin Frankfurt/Oder -->
 		<transponder centre_frequency="642000000" bandwidth="0"/><!-- Ch 42 freenet TV 3 Berlin -->
 		<transponder centre_frequency="658000000" bandwidth="0"/><!-- Ch 44 RBB2 Cottbus -->
 	</terrestrial>
-	<terrestrial name="Braunschweig Broitzem+Kraftwerk(Europe DVB-T/T2)" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0"/>
-		<transponder centre_frequency="498000000" bandwidth="0"/>
-		<transponder centre_frequency="594000000" bandwidth="0"/>
-		<transponder centre_frequency="658000000" bandwidth="0"/>
-		<transponder centre_frequency="682000000" bandwidth="0"/>
-		<transponder centre_frequency="754000000" bandwidth="0"/>
-		<transponder centre_frequency="786000000" bandwidth="0"/>
+	<terrestrial name="Braunschweig (Broitzem+Kraftwerk) (Europe DVB-T/T2)" flags="5" countrycode="DEU">
+		<transponder centre_frequency="474000000" bandwidth="0"/><!-- Ch 21 freenet TV 2 -->
+		<transponder centre_frequency="490000000" bandwidth="0"/><!-- Ch 23 ARD -->
+		<transponder centre_frequency="594000000" bandwidth="0"/><!-- Ch 36 ZDF -->
+		<transponder centre_frequency="626000000" bandwidth="0"/><!-- Ch 40 ARD/Dritte -->
+		<transponder centre_frequency="658000000" bandwidth="0"/><!-- Ch 44 freenet TV 1 -->
+		<transponder centre_frequency="682000000" bandwidth="0"/><!-- Ch 47 freenet TV 3 -->
 	</terrestrial>
 	<terrestrial name="Bremen-Walle/Bremerhaven (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="482000000" bandwidth="0"/><!-- Ch 22 freenet TV 3 -->
