@@ -1413,7 +1413,7 @@
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
@@ -1437,6 +1437,7 @@
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
@@ -1469,11 +1470,11 @@
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
-	<terrestrial name="Estonia - Haapsalu (Europe DVB-T/T2)" flags="0" countrycode="EST">
+	<terrestrial name="Estonia - Haapsalu/Uuemõisa (Europe DVB-T/T2)" flags="0" countrycode="EST">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/>
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/>
 	</terrestrial>
@@ -1512,6 +1513,15 @@
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/>
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Estonia - Ellamaa (Europe DVB-T/T2)" flags="0" countrycode="EST">
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
+	</terrestrial>
+	<terrestrial name="Estonia - Pehka (Europe DVB-T/T2)" flags="0" countrycode="EST">
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="1"/>
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/>
 	</terrestrial>
 	<terrestrial name="Suomi (Europe DVB-T/T2)" flags="5" countrycode="FIN">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" system="1"/>
