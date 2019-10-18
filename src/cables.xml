@@ -453,6 +453,60 @@
 		<transponder frequency="634000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="634000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
+	<cable name="AG Grossschoenau e.V." satfeed="true" flags="9" countrycode="DEU"> 
+		<!-- "http://www.anteg.de/" -->
+		<transponder frequency="73000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="81000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="113000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="121000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="129000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="137000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="145000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="153000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="161000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="169000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="177000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="185000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="193000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="201000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="209000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="217000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="225000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="233000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="241000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="249000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
+		<transponder frequency="257000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="265000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="273000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="281000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="289000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="297000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="306000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
+		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="322000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="338000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="346000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="354000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="362000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="378000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="386000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="394000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="402000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="410000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="426000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="434000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="442000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="450000" symbol_rate="6875000" fec_inner="9" modulation="3"/>
+		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="466000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="474000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="482000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="490000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+		<transponder frequency="498000" symbol_rate="6900000" fec_inner="9" modulation="6"/>
+	</cable>
 	<cable name="Antennentechnik Weser-Ems" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 		<transponder frequency="370000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
