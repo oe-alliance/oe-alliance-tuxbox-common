@@ -1888,16 +1888,19 @@
 		<transponder centre_frequency="714000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 51 -->
 	</terrestrial>
 	<terrestrial name="Winter Hill (Europe DVB-T/T2)" flags="5" countrycode="GBR">
-		<transponder centre_frequency="554000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 31 (HD) -->
-		<transponder centre_frequency="602000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 (HD) -->
+		<transponder centre_frequency="474000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
+		<transponder centre_frequency="562000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="602000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
+		<transponder centre_frequency="626000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 		<transponder centre_frequency="698000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 50 -->
 		<transponder centre_frequency="738000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 54 (HD) -->
-		<transponder centre_frequency="746000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 57 -->
+		<transponder centre_frequency="746000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 (HD) -->
+		<transponder centre_frequency="754000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 56 (HD) -->
 		<transponder centre_frequency="770000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 58 -->
 		<transponder centre_frequency="778000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="786000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Greece (Europe DVB-T/T2)" flags="5" countrycode="GRC">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
