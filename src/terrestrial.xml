@@ -618,25 +618,25 @@
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" system="1" plp_id="1" /><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Ceske Budejovice - Klet (Europe DVB-T/T2)" flags="5" countrycode="CZE">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH22 -->
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="2" code_rate_lp="2" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH25 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH27 (T2) -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH32 (T2) -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH39 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="2" code_rate_hp="3" code_rate_lp="3" guard_interval="1" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH42 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH22 MPX23 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH27 MPX22 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH30 MPX24 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH39 MPX21 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH53 MPX7 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH50 (T2)-->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH32 -->
 	</terrestrial>
 	<terrestrial name="Praha (Europe DVB-T/T2)" flags="5" countrycode="CZE">
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2"/>
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2"/>
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH23 MPX23 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH26 MPX21 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH40 MPX22 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH42 MPX24 -->
 	</terrestrial>
 	<terrestrial name="Vimperk - Sv. Mari (Europe DVB-T/T2)" flags="5" countrycode="CZE">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH22 -->
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH27 (T2) -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH39 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2" system="0"/><!-- CH49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH50 (T2)-->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH22 MPX23 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH27 MPX22 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH30 MPX24 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1"/><!-- CH39 MPX21 -->
 	</terrestrial>
 	<terrestrial name="Berlin/Brandenburg (Europe DVB-T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="490000000" bandwidth="0"/><!-- Ch 23 RBB1 Cottbus -->
