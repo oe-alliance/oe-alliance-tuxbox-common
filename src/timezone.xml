@@ -198,7 +198,7 @@
 	<zone name="(GMT) Sao Tome and Principe" zone="Africa/Sao_Tome" />
 	<zone name="(GMT) Senegal" zone="Africa/Dakar" />
 	<zone name="(GMT) Sierra Leone" zone="Africa/Freetown" />
-	<zone name="(GMT) Spain: Canary" zone="Atlantic/Canary" />
+	<zone name="(GMT) Spain: Canary Islands" zone="Atlantic/Canary" />
 	<zone name="(GMT) Togo" zone="Africa/Lome" />
 	<zone name="(GMT) United Kingdom" zone="Europe/London" />
 	<zone name="(GMT+01:00) Albania" zone="Europe/Tirane" />
