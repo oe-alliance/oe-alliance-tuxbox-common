@@ -3177,14 +3177,9 @@
 	<sat name="51.5E Ku-band Belintersat 1" flags="1" position="515">
 		<transponder frequency="11010000" symbol_rate="30000000" polarization="0" fec_inner="0" system="1" modulation="1" />
 		<transponder frequency="11350000" symbol_rate="45000000" polarization="0" fec_inner="3" system="1" modulation="2" />
-		<transponder frequency="10800000" symbol_rate="27501000" polarization="0" fec_inner="15" system="0" modulation="1"/>
-		<transponder frequency="10863000" symbol_rate="27502000" polarization="1" fec_inner="15" system="0" modulation="1"/>
-		<transponder frequency="11130000" symbol_rate="2220000" polarization="1" fec_inner="15" system="0" modulation="1"/>
-		<transponder frequency="11246000" symbol_rate="2220000" polarization="1" fec_inner="15" system="0" modulation="1"/>
-		<transponder frequency="11289000" symbol_rate="44994000" polarization="0" fec_inner="15" system="1" modulation="2"/>
-		<transponder frequency="11355000" symbol_rate="45002000" polarization="0" fec_inner="15" system="1" modulation="2"/>
-		<transponder frequency="12409000" symbol_rate="3358000" polarization="1" fec_inner="15" system="1" modulation="2"/>
-		<transponder frequency="12519000" symbol_rate="3359000" polarization="1" fec_inner="15" system="1" modulation="2"/>
+		<transponder frequency="10800000" symbol_rate="27501000" polarization="0" fec_inner="0" system="0" modulation="1" />
+		<transponder frequency="11230000" symbol_rate="45000000" polarization="0" fec_inner="6" system="1" modulation="2" />
+		<transponder frequency="11289000" symbol_rate="45000000" polarization="0" fec_inner="6" system="1" modulation="2" />
 	</sat>
 	<sat name="51.5E C-band Belintersat 1" flags="1" position="516">
 		<transponder frequency="3645000" symbol_rate="4915000" polarization="3" fec_inner="4" system="0" modulation="1" />
