@@ -1853,7 +1853,6 @@
 		<transponder centre_frequency="546000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 30 (HD) -->
 		<transponder centre_frequency="586000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="746000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 (HD) -->
-		<transponder centre_frequency="754000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 56 (HD) -->
 	</terrestrial>
 	<terrestrial name="Emley Moor (Europe DVB-T/T2)" flags="5" countrycode="GBR">
 		<transponder centre_frequency="562000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 32 (HD) -->
