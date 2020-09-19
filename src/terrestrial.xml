@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
+	There is no need to list every Country or mast/area. The generic Europe one should work for almost everyone, albeit slower. Only add the ones that have problems with interference from nearby masts.
+
 	Countries sorted by three letter country code (ISO 3166-1).
 	Regions sorted alpabetically.
 	Transponders sorted by frequency.
@@ -81,8 +83,6 @@
 		4: Use ONIT
 		8: Skip NITs of known networks
 			This is a bitmap and combinations can be used.
-
-	There is no need to list every mast/area. Only add the ones that have problems with the generic Europe or Country one owing to interference from nearby masts.
 
 	Please report missing frequencies and pointers to regional standards to
 		https://github.com/oe-alliance/oe-alliance-tuxbox-common/blob/master/src/terrestrial.xml
