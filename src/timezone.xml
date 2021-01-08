@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-	This data has been extracted from the official IANA 2019c data 
+	This data has been extracted from the official IANA 2020f data 
 	as distributed by TimezonesDB (https://timezonedb.com/) in 
-	Feb-2020 by IanSav.
+	Jan-2021 by IanSav.
 
 	IMPORTANT NOTE: It is preferred that this file not be edited 
 	except to bring it into line with future IANA updates.  If this 
@@ -27,18 +27,18 @@
 	<zone name="(GMT-09:00) United States: Nome" zone="America/Nome" />
 	<zone name="(GMT-09:00) United States: Sitka" zone="America/Sitka" />
 	<zone name="(GMT-09:00) United States: Yakutat" zone="America/Yakutat" />
-	<zone name="(GMT-08:00) Canada: Dawson" zone="America/Dawson" />
 	<zone name="(GMT-08:00) Canada: Vancouver" zone="America/Vancouver" />
-	<zone name="(GMT-08:00) Canada: Whitehorse" zone="America/Whitehorse" />
 	<zone name="(GMT-08:00) Mexico: Tijuana" zone="America/Tijuana" />
 	<zone name="(GMT-08:00) Pitcairn Islands" zone="Pacific/Pitcairn" />
 	<zone name="(GMT-08:00) United States: Los Angeles" zone="America/Los_Angeles" />
 	<zone name="(GMT-07:00) Canada: Cambridge Bay" zone="America/Cambridge_Bay" />
 	<zone name="(GMT-07:00) Canada: Creston" zone="America/Creston" />
+	<zone name="(GMT-07:00) Canada: Dawson" zone="America/Dawson" />
 	<zone name="(GMT-07:00) Canada: Dawson Creek" zone="America/Dawson_Creek" />
 	<zone name="(GMT-07:00) Canada: Edmonton" zone="America/Edmonton" />
 	<zone name="(GMT-07:00) Canada: Fort Nelson" zone="America/Fort_Nelson" />
 	<zone name="(GMT-07:00) Canada: Inuvik" zone="America/Inuvik" />
+	<zone name="(GMT-07:00) Canada: Whitehorse" zone="America/Whitehorse" />
 	<zone name="(GMT-07:00) Canada: Yellowknife" zone="America/Yellowknife" />
 	<zone name="(GMT-07:00) Mexico: Chihuahua" zone="America/Chihuahua" />
 	<zone name="(GMT-07:00) Mexico: Hermosillo" zone="America/Hermosillo" />
@@ -167,7 +167,7 @@
 	<zone name="(GMT-03:00) Brazil: Sao Paulo" zone="America/Sao_Paulo" />
 	<zone name="(GMT-03:00) Falkland Islands" zone="Atlantic/Stanley" />
 	<zone name="(GMT-03:00) French Guiana" zone="America/Cayenne" />
-	<zone name="(GMT-03:00) Greenland: Godthab" zone="America/Godthab" />
+	<zone name="(GMT-03:00) Greenland: Nuuk" zone="America/Nuuk" />
 	<zone name="(GMT-03:00) Saint Pierre and Miquelon" zone="America/Miquelon" />
 	<zone name="(GMT-03:00) Suriname" zone="America/Paramaribo" />
 	<zone name="(GMT-03:00) Uruguay" zone="America/Montevideo" />
@@ -366,7 +366,6 @@
 	<zone name="(GMT+07:00) Russia: Tomsk" zone="Asia/Tomsk" />
 	<zone name="(GMT+07:00) Thailand" zone="Asia/Bangkok" />
 	<zone name="(GMT+07:00) Vietnam" zone="Asia/Ho_Chi_Minh" />
-	<zone name="(GMT+08:00) Antarctica: Casey" zone="Antarctica/Casey" />
 	<zone name="(GMT+08:00) Australia: Perth" zone="Australia/Perth" />
 	<zone name="(GMT+08:00) Brunei" zone="Asia/Brunei" />
 	<zone name="(GMT+08:00) China: Shanghai" zone="Asia/Shanghai" />
@@ -396,7 +395,7 @@
 	<zone name="(GMT+09:30) Australia: Darwin" zone="Australia/Darwin" />
 	<zone name="(GMT+10:00) Antarctica: Dumont d'Urville" zone="Antarctica/DumontDUrville" />
 	<zone name="(GMT+10:00) Australia: Brisbane" zone="Australia/Brisbane" />
-	<zone name="(GMT+10:00) Australia: Currie" zone="Australia/Currie" />
+	<zone name="(GMT+10:00) Australia: Currie (Deprecated use Hobart)" zone="Australia/Currie" />
 	<zone name="(GMT+10:00) Australia: Hobart" zone="Australia/Hobart" />
 	<zone name="(GMT+10:00) Australia: Lindeman Island" zone="Australia/Lindeman" />
 	<zone name="(GMT+10:00) Australia: Melbourne" zone="Australia/Melbourne" />
@@ -408,6 +407,7 @@
 	<zone name="(GMT+10:00) Russia: Ust-Nera" zone="Asia/Ust-Nera" />
 	<zone name="(GMT+10:00) Russia: Vladivostok" zone="Asia/Vladivostok" />
 	<zone name="(GMT+10:30) Australia: Lord Howe Island" zone="Australia/Lord_Howe" />
+	<zone name="(GMT+11:00) Antarctica: Casey" zone="Antarctica/Casey" />
 	<zone name="(GMT+11:00) Australia: Macquarie Island" zone="Antarctica/Macquarie" />
 	<zone name="(GMT+11:00) Micronesia: Kosrae" zone="Pacific/Kosrae" />
 	<zone name="(GMT+11:00) Micronesia: Pohnpei" zone="Pacific/Pohnpei" />
@@ -420,7 +420,6 @@
 	<zone name="(GMT+11:00) Solomon Islands" zone="Pacific/Guadalcanal" />
 	<zone name="(GMT+11:00) Vanuatu" zone="Pacific/Efate" />
 	<zone name="(GMT+12:00) Antarctica: McMurdo" zone="Antarctica/McMurdo" />
-	<zone name="(GMT+12:00) Fiji" zone="Pacific/Fiji" />
 	<zone name="(GMT+12:00) Kiribati: Tarawa" zone="Pacific/Tarawa" />
 	<zone name="(GMT+12:00) Marshall Islands: Kwajalein" zone="Pacific/Kwajalein" />
 	<zone name="(GMT+12:00) Marshall Islands: Majuro" zone="Pacific/Majuro" />
@@ -432,6 +431,7 @@
 	<zone name="(GMT+12:00) United States Minor Outlying Islands: Wake Island" zone="Pacific/Wake" />
 	<zone name="(GMT+12:00) Wallis and Futuna" zone="Pacific/Wallis" />
 	<zone name="(GMT+12:45) New Zealand: Chatham Islands" zone="Pacific/Chatham" />
+	<zone name="(GMT+13:00) Fiji" zone="Pacific/Fiji" />
 	<zone name="(GMT+13:00) Kiribati: Enderbury" zone="Pacific/Enderbury" />
 	<zone name="(GMT+13:00) Samoa" zone="Pacific/Apia" />
 	<zone name="(GMT+13:00) Tokelau" zone="Pacific/Fakaofo" />
