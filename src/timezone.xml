@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--
-	This data has been extracted from the official IANA 2020f data 
+	This data has been extracted from the official IANA data 
 	as distributed by TimezonesDB (https://timezonedb.com/) in 
-	Jan-2021 by IanSav.
+	04-Feb-2021 by a program, TimeZoneUpdater, written by IanSav.
 
 	IMPORTANT NOTE: It is preferred that this file not be edited 
 	except to bring it into line with future IANA updates.  If this 
 	file must be edited please ensure that all zone entries are 
 	unique.  If there are *any* duplicated zone entries the Enigma2 
 	ConfigSelection UI control can/will fail!
- -->
+-->
 <timezone>
 	<zone name="(GMT-11:00) American Samoa" zone="Pacific/Pago_Pago" />
 	<zone name="(GMT-11:00) Niue" zone="Pacific/Niue" />
@@ -72,7 +72,7 @@
 	<zone name="(GMT-06:00) United States: Menominee" zone="America/Menominee" />
 	<zone name="(GMT-06:00) United States: North Dakota; Beulah" zone="America/North_Dakota/Beulah" />
 	<zone name="(GMT-06:00) United States: North Dakota; Center" zone="America/North_Dakota/Center" />
-	<zone name="(GMT-06:00) United States: North Dakota; New_Salem" zone="America/North_Dakota/New_Salem" />
+	<zone name="(GMT-06:00) United States: North Dakota; New Salem" zone="America/North_Dakota/New_Salem" />
 	<zone name="(GMT-05:00) Bahamas" zone="America/Nassau" />
 	<zone name="(GMT-05:00) Brazil: Eirunepe" zone="America/Eirunepe" />
 	<zone name="(GMT-05:00) Brazil: Rio Branco" zone="America/Rio_Branco" />
@@ -398,6 +398,8 @@
 	<zone name="(GMT+10:00) Australia: Currie (Deprecated use Hobart)" zone="Australia/Currie" />
 	<zone name="(GMT+10:00) Australia: Hobart" zone="Australia/Hobart" />
 	<zone name="(GMT+10:00) Australia: Lindeman Island" zone="Australia/Lindeman" />
+	<zone name="(GMT+10:00) Australia: Lord Howe Island" zone="Australia/Lord_Howe" />
+	<zone name="(GMT+10:00) Australia: Macquarie Island" zone="Antarctica/Macquarie" />
 	<zone name="(GMT+10:00) Australia: Melbourne" zone="Australia/Melbourne" />
 	<zone name="(GMT+10:00) Australia: Sydney" zone="Australia/Sydney" />
 	<zone name="(GMT+10:00) Guam" zone="Pacific/Guam" />
@@ -406,9 +408,7 @@
 	<zone name="(GMT+10:00) Papua New Guinea: Port Moresby" zone="Pacific/Port_Moresby" />
 	<zone name="(GMT+10:00) Russia: Ust-Nera" zone="Asia/Ust-Nera" />
 	<zone name="(GMT+10:00) Russia: Vladivostok" zone="Asia/Vladivostok" />
-	<zone name="(GMT+10:30) Australia: Lord Howe Island" zone="Australia/Lord_Howe" />
 	<zone name="(GMT+11:00) Antarctica: Casey" zone="Antarctica/Casey" />
-	<zone name="(GMT+11:00) Australia: Macquarie Island" zone="Antarctica/Macquarie" />
 	<zone name="(GMT+11:00) Micronesia: Kosrae" zone="Pacific/Kosrae" />
 	<zone name="(GMT+11:00) Micronesia: Pohnpei" zone="Pacific/Pohnpei" />
 	<zone name="(GMT+11:00) New Caledonia" zone="Pacific/Noumea" />
@@ -420,6 +420,7 @@
 	<zone name="(GMT+11:00) Solomon Islands" zone="Pacific/Guadalcanal" />
 	<zone name="(GMT+11:00) Vanuatu" zone="Pacific/Efate" />
 	<zone name="(GMT+12:00) Antarctica: McMurdo" zone="Antarctica/McMurdo" />
+	<zone name="(GMT+12:00) Fiji" zone="Pacific/Fiji" />
 	<zone name="(GMT+12:00) Kiribati: Tarawa" zone="Pacific/Tarawa" />
 	<zone name="(GMT+12:00) Marshall Islands: Kwajalein" zone="Pacific/Kwajalein" />
 	<zone name="(GMT+12:00) Marshall Islands: Majuro" zone="Pacific/Majuro" />
@@ -431,7 +432,6 @@
 	<zone name="(GMT+12:00) United States Minor Outlying Islands: Wake Island" zone="Pacific/Wake" />
 	<zone name="(GMT+12:00) Wallis and Futuna" zone="Pacific/Wallis" />
 	<zone name="(GMT+12:45) New Zealand: Chatham Islands" zone="Pacific/Chatham" />
-	<zone name="(GMT+13:00) Fiji" zone="Pacific/Fiji" />
 	<zone name="(GMT+13:00) Kiribati: Enderbury" zone="Pacific/Enderbury" />
 	<zone name="(GMT+13:00) Samoa" zone="Pacific/Apia" />
 	<zone name="(GMT+13:00) Tokelau" zone="Pacific/Fakaofo" />
