@@ -6450,7 +6450,7 @@
 		<transponder frequency="586000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="594000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-<cable name="Unitymedia (Vodafone)" satfeed="true" flags="9" countrycode="DEU">
+	<cable name="Unitymedia (Vodafone)" satfeed="true" flags="9" countrycode="DEU">
 		<!-- lastupdated 20210526 -->
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
