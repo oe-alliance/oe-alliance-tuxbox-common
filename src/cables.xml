@@ -569,7 +569,7 @@
 		<transponder frequency="783000" symbol_rate="5217000" fec_inner="0" modulation="5" />
 		<transponder frequency="789000" symbol_rate="5217000" fec_inner="0" modulation="5" />
 	</cable>
-	<cable name="AG Grossschoenau e.V." satfeed="true" flags="9" countrycode="DEU"> 
+	<cable name="AG Grossschoenau e.V." satfeed="true" flags="9" countrycode="DEU">
 		<!-- "http://www.anteg.de/" -->
 		<transponder frequency="73000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 		<transponder frequency="81000" symbol_rate="6900000" fec_inner="9" modulation="6" />
