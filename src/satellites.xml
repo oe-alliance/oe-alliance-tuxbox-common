@@ -1379,7 +1379,7 @@
 		<transponder frequency="12284000" symbol_rate="2200000" polarization="1" fec_inner="2" system="1" modulation="1" />
 		<transponder frequency="12339000" symbol_rate="8574000" polarization="1" fec_inner="4" system="1" modulation="1" />
 	</sat>
-	<sat name="30.0W Hispasat 30W-5/30W-6" flags="1" position="-300">
+	<sat name="30.0W Hispasat 30W-5/30W-6" flags="1" position="-312">
 		<transponder frequency="10770000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="10850000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="4" />
 		<transponder frequency="10890000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2" />
