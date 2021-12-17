@@ -2017,18 +2017,6 @@
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" /> <!-- Ch 46 -->
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" /> <!-- Ch 47 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" /> <!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" /> <!-- Ch 49 -->
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" /> <!-- Ch 50 -->
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" /> <!-- Ch 51 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" /> <!-- Ch 52 -->
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" /> <!-- Ch 53 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" /> <!-- Ch 54 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" /> <!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" /> <!-- Ch 56 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /> <!-- Ch 57 -->
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" /> <!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" /> <!-- Ch 59 -->
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" /> <!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Hungary (Europe DVB-T/T2)" flags="5" countrycode="HUN">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" /> <!-- Ch 21 -->
