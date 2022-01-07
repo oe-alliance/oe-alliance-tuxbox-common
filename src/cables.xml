@@ -3914,7 +3914,7 @@
 		<transponder frequency="658000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 		<transponder frequency="666000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 	</cable>
-	s<cable name="Kabel Deutschland (Vodafone)" satfeed="true" flags="9" countrycode="DEU">
+	<cable name="Kabel Deutschland (Vodafone)" satfeed="true" flags="9" countrycode="DEU">
 <!-- lastupdated mike99 20220107 -->
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="5" />
