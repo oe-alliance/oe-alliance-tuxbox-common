@@ -6456,6 +6456,14 @@
 		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="386000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="394000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="402000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="410000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="426000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="450000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="610000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 	</cable>
 	<cable name="UPC Kabel Wien" satfeed="true" flags="9" countrycode="AUT">
