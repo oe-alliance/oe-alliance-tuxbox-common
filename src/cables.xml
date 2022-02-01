@@ -6361,6 +6361,9 @@
 		<transponder frequency="370000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 		<transponder frequency="378000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 		<transponder frequency="386000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="396000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="402000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="410000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 		<transponder frequency="506000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 		<transponder frequency="514000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 		<transponder frequency="522000" symbol_rate="6875000" fec_inner="0" modulation="5" />
@@ -7523,8 +7526,8 @@
 		<transponder frequency="578000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 		<transponder frequency="586000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 	</cable>
-<!-- 	Dutch cable providers. Based on the work of Alex1970 27-06-2017 -->
-<!-- 	SOURCE cables.xml https://pastebin.com/MuUXCRtj -->
+<!-- 	Dutch cable providers. Based on the work of Alex1970 1-02-2022 -->
+<!-- 	SOURCE cables.xml https://www.sat4all.com/forums/topic/347544-cablesxml/?do=findComment&comment=2666619 -->
 <!-- 	PLEASE DONT SPLIT THE LIST WITH NEW ENTRY'S -->
 	<cable name="Caiway 2000 Hendrik-Ido Ambacht en Albrandswaard" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="138000" symbol_rate="6875000" fec_inner="0" modulation="3" />
