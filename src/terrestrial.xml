@@ -1898,15 +1898,14 @@
 		<transponder centre_frequency="786000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Pontop Pike (Europe DVB-T/T2)" flags="5" countrycode="GBR">
-		<transponder centre_frequency="570000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 33 (HD) -->
-		<transponder centre_frequency="578000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 34 (HD) -->
-		<transponder centre_frequency="698000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 49 (HD) -->
-		<transponder centre_frequency="706000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 50 -->
-		<transponder centre_frequency="738000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 54 -->
+		<transponder centre_frequency="562000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 32 -->
+		<transponder centre_frequency="578000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 35 -->
+		<transponder centre_frequency="618000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 39 -->
+		<transponder centre_frequency="642000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 45 (HD) -->
 		<transponder centre_frequency="746000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 55 -->
-		<transponder centre_frequency="754000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 56 -->
-		<transponder centre_frequency="770000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 58 -->
-		<transponder centre_frequency="778000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 59 -->
+		<transponder centre_frequency="754000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 56 (HD) -->
 	</terrestrial>
 	<terrestrial name="Redruth (Europe DVB-T/T2)" flags="5" countrycode="GBR">
 		<transponder centre_frequency="634000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 41 -->
