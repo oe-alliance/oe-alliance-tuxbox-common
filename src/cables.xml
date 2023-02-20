@@ -4355,32 +4355,41 @@
 		<transponder frequency="586000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 	</cable>
 	<cable name="LIWEST" satfeed="true" flags="9" countrycode="AUT">
-		<transponder frequency="402000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="402000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="410000" symbol_rate="6875000" fec_inner="9" modulation="3" />
-		<transponder frequency="410000" symbol_rate="6875000" fec_inner="9" modulation="5" />
-		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="426000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="426000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="498000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="498000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="506000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="506000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="514000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="514000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="522000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="522000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="530000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="530000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="538000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="538000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="546000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="546000" symbol_rate="6900000" fec_inner="9" modulation="3" />
+		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="386000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+  		<transponder frequency="394000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="402000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="410000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="426000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="522000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="530000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="538000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="554000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="578000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="586000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="594000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="602000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="610000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="618000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="626000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="642000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="658000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="690000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="698000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="706000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="714000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="722000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="730000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="738000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="746000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+   		<transponder frequency="754000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="762000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="770000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="778000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+    		<transponder frequency="786000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 	</cable>
 	<cable name="Marienfeld-MM Duisburg" satfeed="true" flags="9" countrycode="DEU">
 		<transponder frequency="354000" symbol_rate="6900000" fec_inner="9" modulation="6" />
