@@ -3047,9 +3047,9 @@
 		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" />
 	</terrestrial>
 	<terrestrial name="Russia, Kazan': DVB-T/T2" flags="5" countrycode="RUS">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" system="0" plp_id="0" />
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" system="1" plp_id="0" />
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" system="1" plp_id="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="2" system="0" /> <!-- Ch 26 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="2" system="1" plp_id="0" /> <!-- Ch 36 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="2" system="1" plp_id="0" /> <!-- Ch 53  -->
 	</terrestrial>
 	<terrestrial name="Russia, Krasnodar: DVB-T/T2" flags="5" countrycode="RUS">
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" system="1" plp_id="0" />
