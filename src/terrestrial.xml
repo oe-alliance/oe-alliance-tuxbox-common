@@ -1764,6 +1764,7 @@
 		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 33 -->
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 34 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 36 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 37 -->
 		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 39 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 40 -->
