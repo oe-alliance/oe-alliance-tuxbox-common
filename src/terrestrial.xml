@@ -1804,7 +1804,7 @@
 		<transponder centre_frequency="546000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 30 -->
 		<transponder centre_frequency="642000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 42 (HD) -->
 	</terrestrial>
-	<terrestrial name="Craigkelly, Fife (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Craigkelly, Fife (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- KY3 9HW -->
 		<transponder centre_frequency="474000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 21 (HD) -->
 		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 24 -->
 		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 27 -->
@@ -1813,7 +1813,7 @@
 		<transponder centre_frequency="562000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 32 -->
 		<transponder centre_frequency="602000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 37 -->
 	</terrestrial>
-	<terrestrial name="Crystal Palace, London (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Crystal Palace, London (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- SE19 1UE -->
 		<transponder centre_frequency="482000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 22 -->
 		<transponder centre_frequency="490000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 23 -->
 		<transponder centre_frequency="506000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 25 -->
@@ -1830,7 +1830,7 @@
 		<transponder centre_frequency="578000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 34 -->
 		<transponder centre_frequency="586000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 35 -->
 	</terrestrial>
-	<terrestrial name="Emley Moor (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Emley Moor (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- HD8 9TF -->
 		<transponder centre_frequency="570000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 33 -->
 		<transponder centre_frequency="594000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 36 -->
 		<transponder centre_frequency="618000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 39 -->
@@ -1839,7 +1839,7 @@
 		<transponder centre_frequency="682000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 47 -->
 		<transponder centre_frequency="690000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 48 -->
 	</terrestrial>
-	<terrestrial name="Hannington (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Hannington (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- RG26 5UD -->
 		<transponder centre_frequency="618000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 39 (HD) -->
 		<transponder centre_frequency="626000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 40 -->
 		<transponder centre_frequency="642000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 42 -->
@@ -1847,7 +1847,7 @@
 		<transponder centre_frequency="666000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 45 -->
 		<transponder centre_frequency="674000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 46 -->
 	</terrestrial>
-	<terrestrial name="Mendip (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Mendip (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- BA5 3LB -->
 		<transponder centre_frequency="546000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 30 -->
 		<transponder centre_frequency="562000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 32 -->
 		<transponder centre_frequency="570000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 33 -->
@@ -1856,7 +1856,7 @@
 		<transponder centre_frequency="594000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 36 -->
 		<transponder centre_frequency="690000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 48 -->
 	</terrestrial>
-	<terrestrial name="Oxford (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Oxford (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- OX3 9ST -->
 		<transponder centre_frequency="538000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 29 -->
 		<transponder centre_frequency="554000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 31 -->
 		<transponder centre_frequency="602000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 37 -->
@@ -1865,7 +1865,7 @@
 		<transponder centre_frequency="674000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 46 -->
 		<transponder centre_frequency="682000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 47 (HD) -->
 	</terrestrial>
-	<terrestrial name="Pontop Pike (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Pontop Pike (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- DH9 9AT -->
 		<transponder centre_frequency="562000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 32 -->
 		<transponder centre_frequency="570000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 33 -->
 		<transponder centre_frequency="578000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 34 -->
@@ -1890,7 +1890,7 @@
 		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 27 -->
 		<transponder centre_frequency="546000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 30 (HD) -->
 	</terrestrial>
-	<terrestrial name="Ridge Hill (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Ridge Hill (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- HR8 2PG -->
 		<transponder centre_frequency="474000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 21 -->
 		<transponder centre_frequency="482000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 22 (HD) -->
 		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 24 -->
@@ -1899,7 +1899,7 @@
 		<transponder centre_frequency="530000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 28 -->
 		<transponder centre_frequency="538000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 29 -->
 	</terrestrial>
-	<terrestrial name="Rowridge (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Rowridge (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- PO30 4HT -->
 		<transponder centre_frequency="474000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 21 (HD) -->
 		<transponder centre_frequency="482000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 22 -->
 		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 24 -->
@@ -1916,7 +1916,7 @@
 		<transponder centre_frequency="658000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 44 -->
 		<transponder centre_frequency="682000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 47 (HD) -->
 	</terrestrial>
-	<terrestrial name="Sandy Heath (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Sandy Heath (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- SG19 2NH -->
 		<transponder centre_frequency="474000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 21 (HD) -->
 		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 24 -->
 		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 27 -->
@@ -1924,7 +1924,7 @@
 		<transponder centre_frequency="594000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 36 -->
 		<transponder centre_frequency="690000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 48 -->
 	</terrestrial>
-	<terrestrial name="Sutton Coldfield, Birmingham (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Sutton Coldfield, Birmingham (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- B75 5JJ -->
 		<transponder centre_frequency="618000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 39 -->
 		<transponder centre_frequency="626000000" bandwidth="0" system="1" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 40 (HD) -->
 		<transponder centre_frequency="642000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 42 -->
@@ -1933,7 +1933,7 @@
 		<transponder centre_frequency="674000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 48 -->
 	</terrestrial>
-	<terrestrial name="Winter Hill (Europe DVB-T/T2)" flags="5" countrycode="GBR">
+	<terrestrial name="Winter Hill (Europe DVB-T/T2)" flags="5" countrycode="GBR"> <!-- BL6 6SL -->
 		<transponder centre_frequency="474000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 21 --> <!-- L-Liv -->
 		<transponder centre_frequency="498000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 24 --> <!-- L-Man -->
 		<transponder centre_frequency="522000000" bandwidth="0" system="0" constellation="3" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2" /> <!-- Ch 27 --> <!-- G-Man -->
