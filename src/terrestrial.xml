@@ -3059,11 +3059,13 @@
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" plp_id="1" system="1" />
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" plp_id="1" system="0" />
 	</terrestrial>
-	<terrestrial name="Thailand, Bangkok (DVB-T)" flags="5" countrycode="THA">
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0" />
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0" />
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0" />
+	<terrestrial name="Thailand, Bangkok (DVB-T2)" flags="7" countrycode="THA">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1" />
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1" />
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1" />
 	</terrestrial>
 	<terrestrial name="Vinnytsia Ukraine (Europe DVB-T/T2)" flags="5" countrycode="UKR">
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="1" />
