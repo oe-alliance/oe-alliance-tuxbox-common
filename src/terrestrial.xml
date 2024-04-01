@@ -50,11 +50,9 @@
 		3 = 1/4,
 		4 = Auto (default)(OE-Alliance / OpenViX),
 		4 = 7/8 (OpenPLi),
-		5 = Auto (default),
-		6 = 6/4,
-		7 = 8/9,
-		8 = 3/5,
-		9 = 4/5
+		5 = 1/128,
+		6 = 19/128,
+		7 = 12/256,
 
 	Transmission_mode:
 		0 = 2K,
@@ -72,10 +70,9 @@
 		3 = 4,
 		4 = Auto (default)
 
-	Inversion:
-		0 = Off,
-		1 = On,
-		2 = Auto (default)
+	Physical_layer_pipe:
+		0 = 0 (default),
+		x = x (max.255)
 
 	Flags:
 		1: Network Scan
@@ -90,15 +87,54 @@
 -->
 
 <locations>
-	<terrestrial name="Europe, Middle East, Africa: DVB-T/T2 Frequencies" flags="5">
-		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="212500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" />
-		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" />
+	<terrestrial name="Europe : DVB-T/T2 Frequencies (GE06)" flags="5">
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" /> <!-- Ch 5 -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" /> <!-- Ch 6 -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" /> <!-- Ch 7 -->
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" /> <!-- Ch 8 -->
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" /> <!-- Ch 9 -->
+		<transponder centre_frequency="212500000" bandwidth="1" constellation="3" /> <!-- Ch 10 -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" /> <!-- Ch 11 -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" /> <!-- Ch 12 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" /> <!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" /> <!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" /> <!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" /> <!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" /> <!-- Ch 25 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" /> <!-- Ch 26 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" /> <!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" /> <!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" /> <!-- Ch 29 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" /> <!-- Ch 30 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" /> <!-- Ch 31 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" /> <!-- Ch 32 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" /> <!-- Ch 33 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" /> <!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" /> <!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" /> <!-- Ch 36 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" /> <!-- Ch 37 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" /> <!-- Ch 38 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" /> <!-- Ch 39 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" /> <!-- Ch 40 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" /> <!-- Ch 41 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /> <!-- Ch 42 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" /> <!-- Ch 43 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" /> <!-- Ch 44 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" /> <!-- Ch 45 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" /> <!-- Ch 46 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" /> <!-- Ch 47 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" /> <!-- Ch 48 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" /> <!-- Ch 49 -->
+	</terrestrial>
+	<terrestrial name="Middle East, Africa: DVB-T/T2 Frequencies" flags="5">
+		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" /> <!-- Ch 5 -->
+		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" /> <!-- Ch 6 -->
+		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" /> <!-- Ch 7 -->
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="3" /> <!-- Ch 8 -->
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3" /> <!-- Ch 9 -->
+		<transponder centre_frequency="212500000" bandwidth="1" constellation="3" /> <!-- Ch 10 -->
+		<transponder centre_frequency="219500000" bandwidth="1" constellation="3" /> <!-- Ch 11 -->
+		<transponder centre_frequency="226500000" bandwidth="1" constellation="3" /> <!-- Ch 12 -->
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" /> <!-- Ch 21 -->
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" /> <!-- Ch 22 -->
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" /> <!-- Ch 23 -->
@@ -148,54 +184,44 @@
 		<transponder centre_frequency="842000000" bandwidth="0" constellation="3" /> <!-- Ch 67 -->
 		<transponder centre_frequency="850000000" bandwidth="0" constellation="3" /> <!-- Ch 68 -->
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3" /> <!-- Ch 69 -->
-	</terrestrial>
-	<terrestrial name="Scandinavia (Europe DVB-T/T2)" flags="5">
-		<transponder centre_frequency="178000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="185000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="192000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="199000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="206000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="213000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" />
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" />
+		<transponder centre_frequency="706000000" bandwidth="0" constellation="3" /> <!-- Ch 50 -->
+		<transponder centre_frequency="714000000" bandwidth="0" constellation="3" /> <!-- Ch 51 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" /> <!-- Ch 52 -->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" /> <!-- Ch 53 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="3" /> <!-- Ch 54 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" /> <!-- Ch 55 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" /> <!-- Ch 56 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" /> <!-- Ch 57 -->
+		<transponder centre_frequency="770000000" bandwidth="0" constellation="3" /> <!-- Ch 58 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" /> <!-- Ch 59 -->
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" /> <!-- Ch 60 -->
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3" /> <!-- Ch 61 -->
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3" /> <!-- Ch 62 -->
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3" /> <!-- Ch 63 -->
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3" /> <!-- Ch 64 -->
+		<transponder centre_frequency="826000000" bandwidth="0" constellation="3" /> <!-- Ch 65 -->
+		<transponder centre_frequency="834000000" bandwidth="0" constellation="3" /> <!-- Ch 66 -->
+		<transponder centre_frequency="842000000" bandwidth="0" constellation="3" /> <!-- Ch 67 -->
+		<transponder centre_frequency="850000000" bandwidth="0" constellation="3" /> <!-- Ch 68 -->
+		<transponder centre_frequency="858000000" bandwidth="0" constellation="3" /> <!-- Ch 69 -->
+	<!--
+		Only in some parts of African Broadcasting Area ( See RR 5.322) , Asia , Australia and America
+	-->		
+		<transponder centre_frequency="866000000" bandwidth="0" constellation="3" /> <!-- Ch 70 -->
+		<transponder centre_frequency="874000000" bandwidth="0" constellation="3" /> <!-- Ch 71 -->
+		<transponder centre_frequency="882000000" bandwidth="0" constellation="3" /> <!-- Ch 72 -->
+	<!--
+		Only in some parts of African Broadcasting Area ( See RR 5.322) , Asia and Australia
+	-->
+		<transponder centre_frequency="890000000" bandwidth="0" constellation="3" /> <!-- Ch 73 -->
+		<transponder centre_frequency="898000000" bandwidth="0" constellation="3" /> <!-- Ch 74 -->
+		<transponder centre_frequency="906000000" bandwidth="0" constellation="3" /> <!-- Ch 75 -->
+		<transponder centre_frequency="914000000" bandwidth="0" constellation="3" /> <!-- Ch 76 -->
+		<transponder centre_frequency="922000000" bandwidth="0" constellation="3" /> <!-- Ch 77 -->
+		<transponder centre_frequency="930000000" bandwidth="0" constellation="3" /> <!-- Ch 78 -->
+		<transponder centre_frequency="938000000" bandwidth="0" constellation="3" /> <!-- Ch 79 -->
+		<transponder centre_frequency="946000000" bandwidth="0" constellation="3" /> <!-- Ch 80 -->
+		<transponder centre_frequency="954000000" bandwidth="0" constellation="3" /> <!-- Ch 81 -->
 	</terrestrial>
 	<terrestrial name="Andorra  (Europe DVB-T/T2)" flags="5" countrycode="AND">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" /> <!-- Ch 25 -->
@@ -3036,6 +3062,517 @@
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="1" />
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="2" system="1" plp_id="2" />
 	</terrestrial>
+	<terrestrial name="Banská Bystrica (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="205500000" bandwidth="1" constellation="3"/><!-- Ch 9/-REG.plan- -->
+		<transponder centre_frequency="211648000" bandwidth="5"/><!-- Ch 10B/DAB -->
+		<transponder centre_frequency="223936000" bandwidth="5"/><!-- Ch 12A/DAB -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/-plan- -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/-REG.plan- -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/-REG.plan- -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan- -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPX3 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/-plan- -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/REGbb -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Banská Štiavnica (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/-plan- -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX1 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPX4 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34/-plan.REG- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Bardejov (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/-plan- -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34/REG -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/MPX3 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Bojnice/Prievidza (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 Prievidza-->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/MPX2 Prievidza-->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 Handlová-->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 Prievidza-->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/MPX4 Handlová-->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/-plan- -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39/-plan- -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MPX1 Handlová-->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 Handlová-->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 Žilina-->
+	</terrestrial>
+	<terrestrial name="Borský Mikuláš (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="187072000" bandwidth="5"/><!-- Ch 6D/DAB -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28/-plan- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/-plan- -->
+	</terrestrial>
+	<terrestrial name="Bratislava (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="184500000" bandwidth="0" constellation="3" system="1"/><!-- Ch 6/test -->
+		<transponder centre_frequency="227360000" bandwidth="5"/><!-- Ch 12C/DAB -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/REG -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28/-plan -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/MPX4 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38/-REG.plan- -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/-plan -->
+	</terrestrial>
+	<terrestrial name="Brezno (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPX3 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/MPX1- -->
+	</terrestrial>
+	<terrestrial name="Čadca (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/MPX3 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/MPX2 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38/-plan- -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Detva (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/MPX1 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPX3 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Dolný Kubín (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+	</terrestrial>
+	<terrestrial name="Handlová (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/-plan- -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MPX1 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+	</terrestrial>
+	<terrestrial name="Holíč (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/REG -->
+	</terrestrial>
+	<terrestrial name="Hlohovec (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 BA -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX1 NI -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPX4 NI -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 BA -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 BA -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41/REG -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 BA -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 NI -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 NI -->
+	</terrestrial>
+	<terrestrial name="Komárno (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 BA -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX1 NI -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPX4 NI -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 BA -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 BA -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3"/><!-- Ch 43/REG -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 BA -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 NI -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 NI -->
+	</terrestrial>
+	<terrestrial name="Košice/Kráľovský Chlmec/Krompachy/Medzev/Nálepkovo (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="213360000" bandwidth="5"/><!-- Ch 10C/DAB -->
+		<transponder centre_frequency="225648000" bandwidth="5"/><!-- Ch 12B/DAB -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/-plan- -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 23/MPX1 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/MPX3 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/T -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/-plan.REG- -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 34/T -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39/REG -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 41/MPX4 -->
+	</terrestrial>
+	<terrestrial name="Kúty (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 21/MPX1 or MuxG-->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPXE or MUX22-->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/MPX3 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 24/MuxA -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 26/MUX21 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MuxE -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/MPXC -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 33/MUX23 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPXB -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 34/MuxB -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 36/MuxD -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 40/MUX22 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/MPXA -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 41/MuxC -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 42/MUX24 or MPXD -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 46/MUX24 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MuxF -->
+	</terrestrial>
+	<terrestrial name="Levice (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX1 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/REG -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPX4 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Liptovský Mikuláš (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/REG -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/MPX4 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MPX1 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+	</terrestrial>
+	<terrestrial name="Lučenec (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/MPX1 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPX3 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Martin (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/-plan- -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/MPX3 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Medzilaborce (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/MPX3 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Michalovce/Trebišov (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 23/MPX1 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/MPX3 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/T -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/T -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/REG -->
+	</terrestrial>
+	<terrestrial name="Modrý Kameň (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan- -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/-plan- -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPX3 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Myjava (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/REG +BA -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Námestovo/Bobrov (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/-plan- -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/MPX4 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MPX1 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Nitra (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="213360000" bandwidth="5"/><!-- Ch 10C/DAB -->
+		<transponder centre_frequency="220352000" bandwidth="5"/><!-- Ch 11C/DAB -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/-plan- -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX1 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPX4 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/REG -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Nové Mesto nad Váhom (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/MPX3- -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28/-plan- -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/-plan- -->
+	</terrestrial>
+	<terrestrial name="Nové Zámky (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX1 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPX4 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/REG -->
+	</terrestrial>
+	<terrestrial name="Partizánske/Topoľčany/Uhrovec (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/MPX3 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/-plan- -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Pezinok (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41/REG -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Piešťany (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34/REG -->
+	</terrestrial>
+	<terrestrial name="Poprad - Kráľova Hoľa (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/-plan- -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan- -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42/MPX3 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Poprad/Bachledova Dolina/Dedinky/Spišská Stará Ves/Spišské Podhradie/Stará Ľubovňa/Torysa/Ždiar (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="205500000" bandwidth="0" constellation="3"/><!-- Ch 9/-REG.plan- -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 Kráľova hoľa-->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 Kráľova hoľa-->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24/MPX2 Hranovnica-->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan.REG- -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 38/MPX4 Hranovnica-->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3"/><!-- Ch 39/-plan- -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/MPX3 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 41/MPX1 Hranovnica-->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42/MPX3 Hranovnica+KH-->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/REG Zámčisko-->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2-->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 Kráľova hoľa-->
+	</terrestrial>
+	<terrestrial name="Považská Bystrica/Púchov (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/MPX3 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/MPX2 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38/-plan- -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/REG- -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Prešov (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="205500000" bandwidth="0" constellation="3"/><!-- Ch 9/-REG.plan- -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/-plan- -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 23/MPX1 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/MPX3 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan- -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34/-plan.REG- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41/REG -->
+	</terrestrial>
+	<terrestrial name="Revúca/Rimavská Sobota/Hnúšťa (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22/-plan- -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan- -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42/MPX3 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Rožňava/Turňa nad Bodvou (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/-plan- -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/-plan- -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42/MPX3 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="Ružomberok/Liptovská Osada (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/MPX4 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MPX1 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Senica (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-REG.plan- -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/REG -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Skalica (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/REG -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Spišská Nová Ves (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24/MPX2 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/REG -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 38/MPX4 -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 41/MPX1 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3"/><!-- Ch 42/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Snina (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/-plan- -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 23/MPX1 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/MPX3 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2 -->
+	</terrestrial>
+	<terrestrial name="Stropkov (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/-plan- -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/MPX4 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/MPX3 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47/-plan- -->
+	</terrestrial>
+	<terrestrial name="Štúrovo (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/-plan- -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28/-plan- -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3"/><!-- Ch 31/-plan- -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34/-plan.REG- -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/-plan- -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45/MPX2 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/MPX3 -->
+	</terrestrial>
+	<terrestrial name="Trenčín (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21/MPX2 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/MPX3 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 27/MPX4 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28/-plan- -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/-plan- -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3"/><!-- Ch 34/-plan.REG- -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MPX1 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3"/><!-- Ch 40/REG -->
+	</terrestrial>
+	<terrestrial name="Trnava (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3"/><!-- Ch 30/-plan.REG- -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 36/MPX4 -->
+	</terrestrial>
+	<terrestrial name="Turčianske Teplice (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPX3 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/MPX4-plan- -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 Žilina-->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/MPX3 Žilina-->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/MPX2 Žilina-->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MPX1 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/MPX2 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 Žilina-->
+	</terrestrial>
+	<terrestrial name="Veľké Kapušany (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 21/MUX1 Romania-->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 22/MPX4 plan-->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 23/MPX1 K.Chlmec-->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/MPX3 K.Chlmec-->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/><!-- Ch 26/MPXA Tokaj-->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 28/REG Michalovce-->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 29/MPXE Tokaj-->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MUX1 Romania-->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 31/MPXD Tokaj-->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 32/REG Michalovce-->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/MPXB Tokaj-->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 36/MX-5 Uzgorod-->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MUX2 K.Chlmec-->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 39/MX-1 Uzgorod-->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 43/MPXC Tokaj-->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 44/MUX1 Romania-->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48/REG Michalovce-->
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 53/MX-2 Uzgorod-->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 56/MX-3 Uzgorod-->
+	</terrestrial>
+	<terrestrial name="Žarnovica/Žiar nad Hronom (Europe DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27/MPX3žarnovica -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3"/><!-- Ch 33/MPX3žiar-MPX2žarnovica -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/><!-- Ch 37/MPX2žiar -->
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41/REGžarnovica-planŽiar- -->
+	</terrestrial>
+	<terrestrial name="Žilina (DVB-T/T2)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="223936000" bandwidth="5" constellation="3"/><!-- Ch 12A/DAB -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23/-plan.REG- -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25/REG- -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 30/MPX4 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3"/><!-- Ch 32/MPX3 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3"/><!-- Ch 35/MPX2 -->
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38/-plan- -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3"/><!-- Ch 44/-plan- -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3"/><!-- Ch 46/-plan- -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="1"/><!-- Ch 47/MPX1 -->
+	</terrestrial>
+	<terrestrial name="MMDS Liptov Liptovky Mikulas (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="442000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
+		<transponder centre_frequency="450000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
+		<transponder centre_frequency="458000000" bandwidth="0" constellation="3"/><!-- Ch 40 -->
+		<transponder centre_frequency="466000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3"/><!-- Ch 24 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/><!-- Ch 29 -->
+	</terrestrial>
+	<terrestrial name="MMDS Liptov S Liptovky Mikulas (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="258000000" bandwidth="0" constellation="3"/><!-- Ch xx -->
+		<transponder centre_frequency="266000000" bandwidth="0" constellation="3"/><!-- Ch xx -->
+		<transponder centre_frequency="274000000" bandwidth="0" constellation="3"/><!-- Ch xx -->
+		<transponder centre_frequency="282000000" bandwidth="0" constellation="3"/><!-- Ch xx -->
+		<transponder centre_frequency="290000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
+		<transponder centre_frequency="298000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
+		<transponder centre_frequency="306000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
+		<transponder centre_frequency="314000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
+		<transponder centre_frequency="322000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
+		<transponder centre_frequency="338000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
+		<transponder centre_frequency="346000000" bandwidth="0" constellation="3"/><!-- Ch 26 -->
+		<transponder centre_frequency="354000000" bandwidth="0" constellation="3"/><!-- Ch 27 -->
+	</terrestrial>
+	<terrestrial name="MMDS tvtv Trebisov (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="274000000" bandwidth="0" constellation="3"/><!-- Ch 12 -->
+		<transponder centre_frequency="282000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
+		<transponder centre_frequency="290000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
+		<transponder centre_frequency="306000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="314000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="322000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+		<transponder centre_frequency="330000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
+		<transponder centre_frequency="338000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
+		<transponder centre_frequency="346000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
+	</terrestrial>
+	<terrestrial name="MMDS tvtv Trebisov - Cejkov (DVB-T)" flags="7" countrycode="SVK">
+		<transponder centre_frequency="274000000" bandwidth="0" constellation="3"/><!-- Ch 12 -->
+		<transponder centre_frequency="282000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
+		<transponder centre_frequency="290000000" bandwidth="0" constellation="3"/><!-- Ch 25 -->
+		<transponder centre_frequency="306000000" bandwidth="0" constellation="3"/><!-- Ch 28 -->
+		<transponder centre_frequency="314000000" bandwidth="0" constellation="3"/><!-- Ch 30 -->
+		<transponder centre_frequency="322000000" bandwidth="0" constellation="3"/><!-- Ch 32 -->
+		<transponder centre_frequency="330000000" bandwidth="0" constellation="3"/><!-- Ch 35 -->
+		<transponder centre_frequency="338000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->
+		<transponder centre_frequency="346000000" bandwidth="0" constellation="3"/><!-- Ch 39 -->
+		<transponder centre_frequency="354000000" bandwidth="0" constellation="3"/><!-- Ch 44 -->
+	</terrestrial>	
 	<terrestrial name="Sweden, Gavle (Europe DVB-T/T2)" flags="5" countrycode="SWE">
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
 		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2" />
