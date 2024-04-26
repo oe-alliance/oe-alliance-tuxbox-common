@@ -674,6 +674,49 @@
 		<transponder centre_frequency="798000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0" />
 		<transponder centre_frequency="803000000" bandwidth="2" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2" system="0" />
 	</terrestrial>
+	<terrestrial name="China (China DTMB)" flags="1" countrycode="CHN">
+		<transponder centre_frequency="52500000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="60500000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="68500000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="80000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="88000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="171000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="179000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="187000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="195000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="203000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="211000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="219000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="634000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" system="0" />
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" system="0" />
+	</terrestrial>
 	<terrestrial name="Ceske Budejovice - Klet (Europe DVB-T/T2)" flags="5" countrycode="CZE">
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH22 MPX23 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH27 MPX22 -->
