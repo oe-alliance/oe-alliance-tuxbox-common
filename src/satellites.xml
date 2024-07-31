@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Wednesday, 31st of July 2024 21:44:46 [GMT]
+	File created on Wednesday, 31st of July 2024 22:36:47 [GMT]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -2338,7 +2338,7 @@
 		<transponder frequency="12726000" symbol_rate="2000000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="12734000" symbol_rate="1666000" polarization="1" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="31.0E TÃ¼rksat 5A" flags="1" position="310">
+	<sat name="31.0E Türksat 5A" flags="1" position="310">
 		<transponder frequency="10992000" symbol_rate="2220000" polarization="1" fec_inner="3" system="0" modulation="1" />
 		<transponder frequency="11515000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2" />
 	</sat>
@@ -2592,7 +2592,7 @@
 		<transponder frequency="3985000" symbol_rate="5120000" polarization="2" fec_inner="3" system="1" modulation="2" t2mi_plp_id="1" />
 		<transponder frequency="3992000" symbol_rate="5120000" polarization="2" fec_inner="3" system="1" modulation="2" t2mi_plp_id="1" />
 	</sat>
-	<sat name="42.0E Ku-band TÃ¼rksat 3A/4A/5B" flags="1" position="420">
+	<sat name="42.0E Ku-band Türksat 3A/4A/5B" flags="1" position="420">
 		<transponder frequency="10959000" symbol_rate="6250000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="10967000" symbol_rate="7918000" polarization="1" fec_inner="4" system="1" modulation="2" />
 		<transponder frequency="11012000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2" />
@@ -2659,7 +2659,7 @@
 		<transponder frequency="12685000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="12729000" symbol_rate="30000000" polarization="1" fec_inner="2" system="1" modulation="2" />
 	</sat>
-	<sat name="42.0E Ka-band TÃ¼rksat 3A/4A/5B" flags="1" position="422">
+	<sat name="42.0E Ka-band Türksat 3A/4A/5B" flags="1" position="422">
 		<transponder frequency="18634000" symbol_rate="22500000" polarization="2" fec_inner="2" system="1" modulation="2" />
 		<transponder frequency="18710000" symbol_rate="12500000" polarization="2" fec_inner="2" system="1" modulation="2" />
 	</sat>
@@ -2759,7 +2759,7 @@
 		<transponder frequency="4018000" symbol_rate="5120000" polarization="2" fec_inner="3" system="1" modulation="2" t2mi_plp_id="1" />
 		<transponder frequency="4037000" symbol_rate="16000000" polarization="2" fec_inner="3" system="0" modulation="1" />
 	</sat>
-	<sat name="50.0E TÃ¼rksat 4B" flags="1" position="500">
+	<sat name="50.0E Türksat 4B" flags="1" position="500">
 		<transponder frequency="10960000" symbol_rate="2220000" polarization="0" fec_inner="1" system="0" modulation="1" />
 		<transponder frequency="11196000" symbol_rate="2220000" polarization="1" fec_inner="1" system="0" modulation="1" />
 	</sat>
@@ -2776,7 +2776,7 @@
 		<transponder frequency="3645000" symbol_rate="4915000" polarization="3" fec_inner="4" system="0" modulation="1" />
 		<transponder frequency="3706000" symbol_rate="17950000" polarization="3" fec_inner="3" system="1" modulation="2" />
 	</sat>
-	<sat name="52.0E TurkmenÃ?lem/MonacoSat" flags="1" position="520">
+	<sat name="52.0E TurkmenÄlem/MonacoSat" flags="1" position="520">
 		<transponder frequency="10762000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="1" />
 		<transponder frequency="10762000" symbol_rate="27500000" polarization="1" fec_inner="2" system="0" modulation="1" />
 		<transponder frequency="10804000" symbol_rate="27500000" polarization="0" fec_inner="2" system="0" modulation="1" />
