@@ -6949,7 +6949,7 @@
 		<transponder frequency="394000" symbol_rate="6900000" fec_inner="0" modulation="5" />
 		<transponder frequency="858000" symbol_rate="6900000" fec_inner="0" modulation="5" />
 	</cable>
-	
+
 		<cable name="Elmonet" satfeed="true" flags="9" countrycode="FIN">
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="0" modulation="4" />
 		<transponder frequency="162000" symbol_rate="6875000" fec_inner="0" modulation="5" />
@@ -8271,7 +8271,7 @@
 		-->
 	</cable>
 
-<!-- 	Dutch cable providers. Based on the work of Alex1970 11-05-2023 -->
+<!-- 	Dutch cable providers. Based on the work of Alex1970 21-02-2025 -->
 	<cable name="Caiway 2000 Hendrik-Ido Ambacht en Albrandswaard" satfeed="true" flags="9" countrycode="NLD">
 		<transponder frequency="138000" symbol_rate="6875000" fec_inner="0" modulation="3" />
 		<transponder frequency="245000" symbol_rate="6875000" fec_inner="0" modulation="3" />
@@ -8928,6 +8928,49 @@
 		<transponder frequency="842000" symbol_rate="6875000" fec_inner="0" modulation="3" />
 		<transponder frequency="850000" symbol_rate="6875000" fec_inner="0" modulation="3" />
 		<transponder frequency="858000" symbol_rate="6875000" fec_inner="0" modulation="3" />
+	</cable>
+
+	<cable name="kabelnoord" satfeed="true" flags="9" countrycode="NLD">
+		<transponder frequency="178000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="186000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="194000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="202000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="306000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="314000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="322000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="186000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="194000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="202000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="306000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="314000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="322000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="330000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="338000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="346000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="354000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="362000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="370000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="378000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="386000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="394000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="402000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="410000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="418000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="426000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="434000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="442000" symbol_rate="6875000" fec_inner="0" modulation="5" />
+		<transponder frequency="450000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="458000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="466000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="474000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="482000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="490000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="498000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="506000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="514000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="522000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="530000" symbol_rate="6900000" fec_inner="0" modulation="5" />
+		<transponder frequency="538000" symbol_rate="6900000" fec_inner="0" modulation="5" />
 	</cable>
 
 	<cable name="Kabeltex" satfeed="true" flags="9" countrycode="NLD">
