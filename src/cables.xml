@@ -5975,7 +5975,7 @@
 		<transponder frequency="666000" symbol_rate="6900000" fec_inner="9" modulation="6" />
 	</cable>
 
-	<cable name="Vodafone" satfeed="true" flags="9" countrycode="DEU">
+	<cable name="Vodafone (KD)" satfeed="true" flags="9" countrycode="DEU">
 		<!-- lastupdated mike99 202500314 -->
 		<transponder frequency="330000000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
 		<transponder frequency="338000000" symbol_rate="6875000" fec_inner="9" modulation="5"/>
