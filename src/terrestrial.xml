@@ -90,7 +90,7 @@
 -->
 
 <locations>
-	<terrestrial name="Europe, Middle East, Africa: DVB-T/T2 Frequencies" flags="5">
+	<terrestrial name="Europe, Middle East, Africa: DVB-T/T2" flags="5">
 		<transponder centre_frequency="177500000" bandwidth="1" constellation="3" />
 		<transponder centre_frequency="184500000" bandwidth="1" constellation="3" />
 		<transponder centre_frequency="191500000" bandwidth="1" constellation="3" />
@@ -3834,3 +3834,4 @@
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /> <!-- Ch 42 -->
 	</terrestrial>
 </locations>
+
