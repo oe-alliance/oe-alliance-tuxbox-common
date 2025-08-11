@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-	File created on Monday, 11th of August 2025 11:22:05 [GMT]
+	File created on Monday, 11th of August 2025 13:49:13 [UTC]
 -->
 <satellites>
 	<sat name="177.0W C-band NSS 9" flags="1" position="-1771">
@@ -1666,9 +1666,9 @@
 		<transponder frequency="12303000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="15" pls_mode="1" pls_code="262140" />
 		<transponder frequency="12303000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="21" pls_mode="1" pls_code="262140" />
 		<transponder frequency="12303000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="22" pls_mode="1" pls_code="262140" />
-		<transponder frequency="12341000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="1" pls_mode="1" pls_code="0" />
-		<transponder frequency="12341000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="1" pls_mode="1" pls_code="0" />
-		<transponder frequency="12341000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="1" pls_mode="1" pls_code="0" />
+		<transponder frequency="12341000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="33" pls_mode="1" pls_code="0" />
+		<transponder frequency="12341000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="35" pls_mode="1" pls_code="0" />
+		<transponder frequency="12341000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="36" pls_mode="1" pls_code="0" />
 		<transponder frequency="12380000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="18" pls_mode="1" pls_code="262140" />
 		<transponder frequency="12380000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="24" pls_mode="1" pls_code="262140" />
 		<transponder frequency="12380000" symbol_rate="31400000" polarization="1" fec_inner="2" system="1" modulation="4" is_id="25" pls_mode="1" pls_code="262140" />
