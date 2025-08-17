@@ -729,6 +729,13 @@
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH40 MPX22 -->
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH42 MPX24 -->
 	</terrestrial>
+	<terrestrial name="Susice - Svatobor (Europe DVB-T/T2)" flags="5" countrycode="CZE">
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH26 MPX21 -->
+		<transponder centre_frequency="554000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH31 MPX23 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH34 MPX22 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH42 MPX24 -->
+	</terrestrial>
+
 	<terrestrial name="Vimperk - Sv. Mari (Europe DVB-T/T2)" flags="5" countrycode="CZE">
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH22 MPX23 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="4" code_rate_hp="1" code_rate_lp="1" guard_interval="2" transmission_mode="6" hierarchy_information="0" inversion="2" system="1" /> <!-- CH27 MPX22 -->
@@ -3834,4 +3841,3 @@
 		<transponder centre_frequency="642000000" bandwidth="0" constellation="3" /> <!-- Ch 42 -->
 	</terrestrial>
 </locations>
-
