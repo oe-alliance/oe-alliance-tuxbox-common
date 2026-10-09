@@ -839,15 +839,13 @@
 		<transponder centre_frequency="514000000" bandwidth="0" /> <!-- Ch 26 freenet TV 3 -->
 	</terrestrial>
 	<terrestrial name="Hamburg/Luebeck (Europe DVB-T/T2)" flags="5" countrycode="DEU">
-		<transponder centre_frequency="626000000" bandwidth="0" />
-		<transponder centre_frequency="570000000" bandwidth="0" />
-		<transponder centre_frequency="490000000" bandwidth="0" />
-		<transponder centre_frequency="530000000" bandwidth="0" />
-		<transponder centre_frequency="546000000" bandwidth="0" />
-		<transponder centre_frequency="602000000" bandwidth="0" />
-		<transponder centre_frequency="634000000" bandwidth="0" />
-		<transponder centre_frequency="666000000" bandwidth="0" />
-		<transponder centre_frequency="738000000" bandwidth="0" />
+		<transponder centre_frequency="490000000" bandwidth="0" system="1" plp_id="0" /> <!-- Ch 23 ARD/NDR -->
+		<transponder centre_frequency="522000000" bandwidth="0" system="1" plp_id="0" /> <!-- Ch 27 freenet TV 1 -->
+		<transponder centre_frequency="530000000" bandwidth="0" system="1" plp_id="0" /> <!-- Ch 28 freenet TV 2 -->
+		<transponder centre_frequency="570000000" bandwidth="0" system="1" plp_id="0" /> <!-- Ch 33 ZDF -->
+		<transponder centre_frequency="570000000" bandwidth="0" system="1" plp_id="1" /> <!-- Ch 33 freenet TV connect -->
+		<transponder centre_frequency="634000000" bandwidth="0" system="1" plp_id="0" /> <!-- Ch 41 ARD/Dritte -->
+		<transponder centre_frequency="666000000" bandwidth="0" system="1" plp_id="0" /> <!-- Ch 45 freenet TV 3 -->
 	</terrestrial>
 	<terrestrial name="Hannover/Braunschweig (Europe DVB-T/T2)" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" /> <!-- Ch 21 freenet TV 2 -->
