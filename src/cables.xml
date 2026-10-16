@@ -6072,7 +6072,7 @@
 		<transponder frequency="562000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 	</cable>
-	
+
 	<cable name="Vodafone (old)" satfeed="true" flags="9" countrycode="DEU">
 		<!-- lastupdated TDCroPower 20250215 -->
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -6105,7 +6105,7 @@
 		<transponder frequency="394000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="610000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 	</cable>
-	
+
 	<cable name="Vodafone (KD)" satfeed="true" flags="9" countrycode="DEU">
 		<!-- lastupdated mike99 20260409 -->
 		<transponder frequency="362000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
@@ -6132,7 +6132,7 @@
 		<transponder frequency="546000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="554000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
 		<transponder frequency="562000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
-		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="5"/>
+		<transponder frequency="610000000" symbol_rate="6900000" fec_inner="9" modulation="3"/>
 	</cable>
 
 	<cable name="Kabelcom Rheinhessen" satfeed="true" flags="9" countrycode="DEU">
