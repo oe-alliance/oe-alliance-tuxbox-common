@@ -5761,7 +5761,7 @@
 		<transponder frequency="202000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="210000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="218000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="226000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="226000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="234000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="242000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="250000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -5770,7 +5770,7 @@
 		<transponder frequency="274000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="282000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="314000" symbol_rate="6900000" fec_inner="9" modulation="3" />
-		<transponder frequency="322000" symbol_rate="6900000" fec_inner="9" modulation="5" />
+		<transponder frequency="322000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="330000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="338000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="346000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -5790,7 +5790,6 @@
 		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="466000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 		<transponder frequency="474000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="522000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 	</cable>
 
 	<cable name="Antennentechnik Weser-Ems" satfeed="true" flags="9" countrycode="DEU">
