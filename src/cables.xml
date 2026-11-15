@@ -9476,6 +9476,46 @@
 		<transponder frequency="522000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 		<transponder frequency="530000" symbol_rate="6875000" fec_inner="0" modulation="5" />
 	</cable>
-
+	
+    <cable name="Quickline GGSNet" satfeed="true" flags="9" countrycode="CHE">
+        <transponder frequency="362000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="370000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="378000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="386000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="394000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="402000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="410000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="418000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="426000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="450000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="458000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="482000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="490000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="498000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="506000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="514000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="522000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="530000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="538000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="546000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="554000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="562000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="570000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="578000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="586000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="594000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="602000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="618000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="626000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="634000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="642000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="650000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="658000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="666000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="674000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="682000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="690000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+        <transponder frequency="698000000" symbol_rate="6900000" modulation="5" fec_inner="0" inversion="2"/>
+    </cable>
 </cables>
 
